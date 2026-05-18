@@ -1,0 +1,88 @@
+{
+  "spider": "https://toilet.t4vod.hz.cz/custom_spider.jar;md5;35a81c67b940acce2c18bbaa9c468275",
+  "sites": [
+    {
+      "key": "T4-Infinity",
+      "name": "Infinity(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/vod/self?token=EtoOxyL8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "T4-dbku",
+      "name": "独播库(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/vod/duboku?token=EtoOxyL8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "T4-欧乐",
+      "name": "欧乐(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/vod/olelive?token=EtoOxyL8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "T4-安博",
+      "name": "安博(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/vod/ub1818?token=EtoOxyL8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "jianpian",
+      "name": "荐片",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/json/jianpian.json"
+    },
+    {
+      "key": "BiliBili",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "type": "沙雕动画#沙雕穿越#沙雕#历史记录",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "missav",
+      "name": "MissAv",
+      "type": 3,
+      "api": "csp_T4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "https://jbpumtpvkfam.ap-southeast-1.clawcloudrun.com/vod/missav"
+    },
+}
