@@ -1,4 +1,4 @@
-  "logo": "./shad.gif",
+{
   "spider": "https://toilet.t4vod.hz.cz/custom_spider.jar;md5;35a81c67b940acce2c18bbaa9c468275",
   "sites": [
     {
@@ -750,4 +750,5 @@
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
   "notice": "你好！\n梦回唐朝(VIP)\n剩余2天\n总IP/限制: 22/50"
+
 }
