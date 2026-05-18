@@ -1,0 +1,204 @@
+{
+  "logo": "./shad.gif",
+  "spider": "https://toilet.t4vod.hz.cz/custom_spider.jar;md5;35a81c67b940acce2c18bbaa9c468275",
+  "sites": [
+    {
+      "key": "T4-Infinity",
+      "name": "Infinity(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/vod/self?token=EtoOxyL8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "T4-dbku",
+      "name": "独播库(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/vod/duboku?token=EtoOxyL8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "T4-欧乐",
+      "name": "欧乐(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/vod/olelive?token=EtoOxyL8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "T4-安博",
+      "name": "安博(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/vod/ub1818?token=EtoOxyL8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "jianpian",
+      "name": "荐片",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/json/jianpian.json"
+    },
+    {
+      "key": "BiliBili",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "type": "沙雕动画#沙雕穿越#沙雕#历史记录",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "missav",
+      "name": "MissAv",
+      "type": 3,
+      "api": "csp_T4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "https://jbpumtpvkfam.ap-southeast-1.clawcloudrun.com/vod/missav"
+    },
+    {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "csp_T4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "https://app.tang.hz.cz/vod/jable"
+    },
+    {
+      "key": "javday",
+      "name": "JavDay",
+      "type": 3,
+      "api": "csp_T4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "https://app.tang.hz.cz/vod/javday"
+    },
+    {
+      "key": "hsex",
+      "name": "好色",
+      "type": 3,
+      "api": "csp_T4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "https://app.tang.hz.cz/vod/hsen"
+    }
+  ],
+  "lives": [
+    {
+      "name": "海马",
+      "type": 0,
+      "url": "proxy://do=hema&token=EtoOxyL8"
+    },
+    {
+      "name": "VIP¹",
+      "type": 0,
+      "url": "https://tang.hz.cz/api/live?type=1&token=EtoOxyL8"
+    },
+    {
+      "name": "AI直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "timeout": 10
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-query",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "hosts": [
+    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.FifastbLive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+  ],
+  "notice": "你好！\n梦回唐朝(VIP)\n剩余2天\n总IP/限制: 23/50"
+}
