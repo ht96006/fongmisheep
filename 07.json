@@ -1,0 +1,10 @@
+{
+  "spider": "https://toilet.t4vod.hz.cz/custom_spider.jar",
+  "lives": [
+    {
+      "name": "海马",
+      "type": 0,
+      "url": "proxy://do=hema&token=6wXA70qb"
+    }
+  ]
+}
