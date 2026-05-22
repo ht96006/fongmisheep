@@ -1,0 +1,1030 @@
+新闻News,#genre#
+TVB无线新闻,http://127.0.0.1:9560/03tvbnews264/index.m3u8?v.channelid=1941&v.type=1&ips=15.235.117.85:32342
+TVB PLUS,http://127.0.0.1:9560/04tvbj5264/index.m3u8?v.channelid=1942&v.type=1&ips=38.58.181.230:19690
+NOWTV新闻,http://127.0.0.1:9560/16nownews/index.m3u8?v.channelid=1944&v.type=1&ips=15.235.117.85:32342
+NOWTV财经,http://127.0.0.1:9560/18nowbusi/index.m3u8?v.channelid=1945&v.type=1&ips=38.58.181.230:19690
+香港HOY TV资讯,http://127.0.0.1:9560/hoytvzx/index.m3u8?v.channelid=1946&v.type=1&ips=38.58.181.230:19690
+凤凰香港,http://127.0.0.1:9560/09fhhk/index.m3u8?v.channelid=1947&v.type=1&ips=15.235.117.85:19970
+凤凰资讯,http://144.76.172.243:9560/07fhzx/index.m3u8?v.channelid=1948&v.type=1&ips=15.235.117.85:32342
+香港电台RTHK31,http://127.0.0.1:9560/10rthk31/index.m3u8?v.channelid=1949&v.type=1&ips=15.235.117.85:19970
+香港电台RTHK32,http://127.0.0.1:9560/11rthk32/index.m3u8?v.channelid=1950&v.type=1&ips=15.235.117.85:19970
+TVB娱乐新闻,http://127.0.0.1:9560/14tvbenews/index.m3u8?v.channelid=1951&v.type=1&ips=15.235.117.85:19970
+中天新闻,http://127.0.0.1:9560/ctitvnews/index.m3u8?v.channelid=1952&v.type=1&ips=15.235.117.85:32342
+TVBS新闻,http://127.0.0.1:9560/TVBSnews/index.m3u8?v.channelid=1953&v.type=1&ips=15.235.117.85:32342
+东森新闻,http://173.234.25.90:9560/ettvnews/index.m3u8?v.channelid=1954&v.type=1&ips=15.235.117.85:32342
+东森财经新闻,http://173.234.25.90:9560/ettvbusinews/index.m3u8?v.channelid=1955&v.type=1&ips=69.30.211.114:9590
+民视新闻,http://127.0.0.1:9560/msxw/index.m3u8?v.channelid=1956&v.type=1&ips=108.181.2.193:22263
+三立新闻,http://173.234.25.90:9560/shanlinews/index.m3u8?v.channelid=1957&v.type=1&ips=15.235.117.85:32342
+中视新闻,http://173.234.25.90:9560/zsnews/index.m3u8?v.channelid=1958&v.type=1&ips=69.30.211.114:9590
+镜新闻,http://127.0.0.1:9560/jinnews/index.m3u8?v.channelid=1959&v.type=1&ips=38.75.136.226:18344
+台视新闻,http://127.0.0.1:9560/tsnews/index.m3u8?v.channelid=1960&v.type=1&ips=108.181.2.193:22263
+台视财经,http://127.0.0.1:9560/tsbusinews/index.m3u8?v.channelid=1961&v.type=1&ips=108.181.2.193:22263
+三立i新闻,http://173.234.25.90:9560/slinews/index.m3u8?v.channelid=1962&v.type=1&ips=108.181.2.193:22263
+非凡新闻,http://173.234.25.90:9560/feifannews/index.m3u8?v.channelid=1963&v.type=1&ips=38.75.136.226:18344
+寰宇新闻,http://127.0.0.1:9560/huanynews/index.m3u8?v.channelid=1964&v.type=1&ips=15.235.117.85:32342
+寰宇新闻台湾,http://127.0.0.1:9560/huanynewstw/index.m3u8?v.channelid=1965&v.type=1&ips=108.181.2.193:22263
+壹电视新闻,http://127.0.0.1:9560/onenews/index.m3u8?v.channelid=1966&v.type=1&ips=108.181.2.193:22263
+年代新闻,http://127.0.0.1:9560/niandainews/index.m3u8?v.channelid=1967&v.type=1&ips=15.235.117.85:32342
+CCTV 13 新闻,http://45.88.151.66:9560/13cctv13/index.m3u8?v.channelid=1968&v.type=1&ips=51.79.98.142:19884
+加拿大600新闻,http://127.0.0.1:9560/600news/index.m3u8?v.channelid=1969&v.type=1&ips=51.79.98.142:19884
+CNA(SG),http://64.74.167.146:9560/CAN/index.m3u8?v.channelid=1970&v.type=1&ips=144.217.67.200:19591
+CNN US,http://51.161.116.93:9560/CNN/index.m3u8?v.channelid=1971&v.type=1&ips=148.113.176.47:19698
+CNN International,http://51.161.87.108:9560/02cnni/index.m3u8?v.channelid=1972&v.type=1&ips=51.79.72.168:29593
+Fox News,http://51.161.87.108:9560/03foxnews/index.m3u8?v.channelid=1973&v.type=1&ips=51.79.72.168:29593
+MSNBC,http://51.161.87.108:9560/04msnbc/index.m3u8?v.channelid=1974&v.type=1&ips=51.79.72.168:29593
+Newsmax TV,http://51.161.87.108:9560/05newsmax/index.m3u8?v.channelid=1975&v.type=1&ips=51.79.72.168:29593
+One American News,http://51.161.87.108:9560/06oan/index.m3u8?v.channelid=1976&v.type=1&ips=51.79.72.168:29593
+BBC World News,http://51.161.87.108:9560/07bbc/index.m3u8?v.channelid=1977&v.type=1&ips=51.79.72.168:29593
+Russia Today,http://51.161.87.108:9560/09rt/index.m3u8?v.channelid=1978&v.type=1&ips=51.79.72.168:29593
+Aljazeera English News,http://51.161.87.108:9560/10alje/index.m3u8?v.channelid=1979&v.type=1&ips=51.79.72.168:29593
+Sky News,http://192.99.160.142:9560/skynews/index.m3u8?v.channelid=1980&v.type=1&ips=51.79.78.8:9590
+France 24 En,http://192.99.160.142:9560/f24en/index.m3u8?v.channelid=1981&v.type=1&ips=142.4.216.151:39598
+DW TV,http://192.99.160.142:9560/dw/index.m3u8?v.channelid=1982&v.type=1&ips=173.208.202.114:49693
+ABC News,http://51.161.87.108:9560/11abcnews/index.m3u8?v.channelid=1983&v.type=1&ips=51.79.72.168:29593
+CBS News,http://51.161.116.93:9560/CBSN/index.m3u8?v.channelid=1984&v.type=1&ips=148.113.176.47:19698
+NBC Now News,http://51.161.116.93:9560/NBCNowNews/index.m3u8?v.channelid=1985&v.type=1&ips=148.113.176.47:19698
+CNBC,http://51.161.87.108:9560/22CNBC/index.m3u8?v.channelid=1986&v.type=1&ips=51.79.72.168:29593
+Bloomberg,http://51.161.116.93:9560/Bloomberg/index.m3u8?v.channelid=1987&v.type=1&ips=148.113.176.47:19698
+CP 24 Canada,http://54.36.164.165:9560/CP24/index.m3u8?v.channelid=1988&v.type=1&ips=51.79.78.8:9590
+CTV News,http://54.36.164.165:9560/CTVNews/index.m3u8?v.channelid=1989&v.type=1&ips=51.79.78.8:9590
+CBC News,http://54.36.164.165:9560/CBCNews/index.m3u8?v.channelid=1990&v.type=1&ips=51.79.78.8:9590
+Business Network News,http://54.36.164.165:9560/BNNBloomberg/index.m3u8?v.channelid=1991&v.type=1&ips=51.79.78.8:9590
+体育SP,#genre#
+NOW体育 1,http://127.0.0.1:9560/nowsp1/index.m3u8?v.channelid=1992&v.type=1&ips=15.235.117.85:19970
+NOW体育 2,http://127.0.0.1:9560/nowsp2/index.m3u8?v.channelid=1993&v.type=1&ips=15.235.117.85:19970
+NOW体育 3,http://127.0.0.1:9560/nowsp3/index.m3u8?v.channelid=1994&v.type=1&ips=15.235.117.85:19970
+NOW体育 4,http://127.0.0.1:9560/nowsp4/index.m3u8?v.channelid=1995&v.type=1&ips=15.235.117.85:19970
+NOW体育 5,http://127.0.0.1:9560/nowsp5/index.m3u8?v.channelid=1996&v.type=1&ips=15.235.117.85:19970
+NOW体育 6,http://127.0.0.1:9560/nowsp6/index.m3u8?v.channelid=1997&v.type=1&ips=15.235.117.85:19970
+NOW体育 7,http://127.0.0.1:9560/nowsp7/index.m3u8?v.channelid=1998&v.type=1&ips=15.235.117.85:19970
+NOW英超  1 （粤）,http://127.0.0.1:9560/nowtvpl1/index.m3u8?v.channelid=1999&v.type=1&ips=15.235.117.85:19970
+广东体育,http://127.0.0.1:9560/gdty/index.m3u8?v.channelid=2000&v.type=1&ips=38.58.181.230:19690
+TVB赛马18,http://127.0.0.1:9560/tvbracing/index.m3u8?v.channelid=2001&v.type=1&ips=15.235.117.85:19970
+博斯运动1,http://127.0.0.1:9560/boshisp1/index.m3u8?v.channelid=2002&v.type=1&ips=38.75.136.226:18344
+博斯运动2,http://127.0.0.1:9560/boshisp2/index.m3u8?v.channelid=2003&v.type=1&ips=38.75.136.226:18344
+博斯魅力,http://127.0.0.1:9560/boshimeili/index.m3u8?v.channelid=2004&v.type=1&ips=38.75.136.226:18344
+博斯高球1,http://127.0.0.1:9560/boshigolf1/index.m3u8?v.channelid=2005&v.type=1&ips=108.181.2.193:22263
+博斯高球2,http://127.0.0.1:9560/boshigolf2/index.m3u8?v.channelid=2006&v.type=1&ips=108.181.2.193:22263
+博斯无限1,http://127.0.0.1:9560/boshiwuxian1/index.m3u8?v.channelid=2007&v.type=1&ips=38.75.136.226:18344
+博斯无限2,http://127.0.0.1:9560/boshiwuxian2/index.m3u8?v.channelid=2008&v.type=1&ips=38.75.136.226:18344
+博斯网球,http://127.0.0.1:9560/boshitennis/index.m3u8?v.channelid=2009&v.type=1&ips=38.75.136.226:18344
+ELEVEN体育1,http://127.0.0.1:9560/ELEVEN1/index.m3u8?v.channelid=2010&v.type=1&ips=38.75.136.226:18344
+ELEVEN体育2,http://127.0.0.1:9560/ELEVEN2/index.m3u8?v.channelid=2011&v.type=1&ips=38.75.136.226:18344
+爱尔达体育 1,http://127.0.0.1:9560/eltasp1/index.m3u8?v.channelid=2012&v.type=1&ips=38.75.136.226:18344
+爱尔达体育 2,http://127.0.0.1:9560/eltasp2/index.m3u8?v.channelid=2013&v.type=1&ips=38.75.136.226:18344
+爱尔达体育 3,http://127.0.0.1:9560/eltasp3/index.m3u8?v.channelid=2014&v.type=1&ips=38.75.136.226:18344
+纬来体育,http://127.0.0.1:9560/vlsport/index.m3u8?v.channelid=2015&v.type=1&ips=108.181.2.193:22263
+CCTV 5 体育,http://127.0.0.1:9560/05cctv5/index.m3u8?v.channelid=2016&v.type=1&ips=51.79.98.142:19884
+CCTV 5+ 体育赛事,http://127.0.0.1:9560/16cctv5plus/index.m3u8?v.channelid=2017&v.type=1&ips=51.79.98.142:19884
+五星体育 Great Sports,http://127.0.0.1:9560/5starsp/index.m3u8?v.channelid=2018&v.type=1&ips=51.79.98.142:19884
+Astro SS 1,http://64.74.167.146:9560/SupersSport1/index.m3u8?v.channelid=2030&v.type=1&ips=144.217.67.200:19591
+Astro SS 2,http://64.74.167.146:9560/SupersSport2/index.m3u8?v.channelid=2031&v.type=1&ips=144.217.67.200:19591
+Astro SS 3,http://64.74.167.146:9560/SupersSport3/index.m3u8?v.channelid=2032&v.type=1&ips=144.217.67.200:19591
+Astro SS 4,http://64.74.167.146:9560/SupersSport4/index.m3u8?v.channelid=2033&v.type=1&ips=144.217.67.200:19591
+Astro SS 5,http://64.74.167.146:9560/SupersSport5/index.m3u8?v.channelid=2034&v.type=1&ips=144.217.67.200:19591
+Astro Arena ,http://64.74.167.146:9560/Arena/index.m3u8?v.channelid=2035&v.type=1&ips=144.217.67.200:19591
+Astro Arena 2,http://64.74.167.146:9560/Arena2/index.m3u8?v.channelid=2036&v.type=1&ips=144.217.67.200:19591
+Now Sports 4K,http://127.0.0.1:9560/nowsp4k/index.m3u8?v.channelid=2277&v.type=1&ips=38.46.221.226:9590
+Now Premier SP 1 EN 1080P,http://127.0.0.1:9560/nowspen1/index.m3u8?v.channelid=2278&v.type=1&ips=198.204.228.186:19590
+ESPN 1 US,http://104.149.150.86:9560/ESPN/index.m3u8?v.channelid=2043&v.type=1&ips=66.70.176.222:9598
+ESPN 2 US,http://104.149.150.86:9560/ESPN2/index.m3u8?v.channelid=2044&v.type=1&ips=66.70.176.222:9598
+Fox Sports 1 US,http://104.149.150.86:9560/FoxSports1/index.m3u8?v.channelid=2045&v.type=1&ips=66.70.176.222:9598
+Fox Sports 2 US,http://104.149.150.86:9560/FoxSports2/index.m3u8?v.channelid=2046&v.type=1&ips=66.70.176.222:9598
+NBA TV US,http://104.149.150.86:9560/NBATV/index.m3u8?v.channelid=2047&v.type=1&ips=66.70.176.222:9598
+Bein Sports US,http://51.161.87.108:9560/beinus/index.m3u8?v.channelid=2048&v.type=1&ips=51.79.72.168:29593
+NFL Network,http://54.36.164.165:9560/NFLNetwork/index.m3u8?v.channelid=2049&v.type=1&ips=51.79.78.8:9590
+Boxing PPV,http://127.0.0.1:9560/boxingppv/index.m3u8?v.channelid=2050&v.type=1&ips=66.70.176.222:9598
+UFC Pass,http://51.161.116.93:9560/UFCPass/index.m3u8?v.channelid=2051&v.type=1&ips=148.113.176.47:19698
+Sky Sports Main Event UK,http://127.0.0.1:9560/22MainEvent/index.m3u8?v.channelid=2052&v.type=1&ips=173.208.202.114:49693
+Sky Sports Cricket UK,http://127.0.0.1:9560/23Cricket/index.m3u8?v.channelid=2053&v.type=1&ips=173.208.202.114:49693
+Sky Sports Action UK,http://127.0.0.1:9560/24spaction/index.m3u8?v.channelid=2054&v.type=1&ips=173.208.202.114:49693
+Sky Sports Golf UK,http://127.0.0.1:9560/25Golf/index.m3u8?v.channelid=2055&v.type=1&ips=173.208.202.114:49693
+Sky Sports Premier League UK,http://127.0.0.1:9560/26PremierLeague/index.m3u8?v.channelid=2056&v.type=1&ips=173.208.202.114:49693
+Sky Sports F1 UK,http://127.0.0.1:9560/27SpF1/index.m3u8?v.channelid=2057&v.type=1&ips=173.208.202.114:49693
+BT Sports 1 UK,http://127.0.0.1:9560/bt1/index.m3u8?v.channelid=2058&v.type=1&ips=173.208.202.114:49693
+BT Sports 2 UK,http://127.0.0.1:9560/bt2/index.m3u8?v.channelid=2059&v.type=1&ips=173.208.202.114:49693
+BT Sports 3 UK,http://127.0.0.1:9560/bt3/index.m3u8?v.channelid=2060&v.type=1&ips=173.208.202.114:49693
+TSN 1 CA,http://192.99.160.142:9560/TSN1/index.m3u8?v.channelid=2061&v.type=1&ips=142.4.216.151:39598
+TSN 2 CA,http://192.99.160.142:9560/TSN2/index.m3u8?v.channelid=2062&v.type=1&ips=142.4.216.151:39598
+TSN 3 CA,http://192.99.160.142:9560/TSN3/index.m3u8?v.channelid=2063&v.type=1&ips=142.4.216.151:39598
+TSN 4 CA,http://192.99.160.142:9560/TSN4/index.m3u8?v.channelid=2064&v.type=1&ips=142.4.216.151:39598
+TSN 5 CA,http://192.99.160.142:9560/TSN5/index.m3u8?v.channelid=2065&v.type=1&ips=142.4.216.151:39598
+Sportsnet Ontario,http://192.99.160.142:9560/Sportsnet/index.m3u8?v.channelid=2066&v.type=1&ips=142.4.216.151:39598
+Sportsnet One,http://192.99.160.142:9560/Sportsnet1/index.m3u8?v.channelid=2067&v.type=1&ips=142.4.216.151:39598
+Sportsnet 360,http://192.99.160.142:9560/Sportsnet360/index.m3u8?v.channelid=2068&v.type=1&ips=142.4.216.151:39598
+Sportsnet World,http://54.36.164.165:9560/spnetwl/index.m3u8?v.channelid=2069&v.type=1&ips=51.79.78.8:9590
+NBA CA,http://54.36.164.165:9560/NBA/index.m3u8?v.channelid=2070&v.type=1&ips=51.79.78.8:9590
+BS242 J SPORTS 1,http://104.149.128.134:9560/jsport1/index.m3u8?v.channelid=2086&v.type=1&ips=198.204.241.82:19590
+BS243 J SPORTS 2,http://104.149.128.134:9560/jsport2/index.m3u8?v.channelid=2087&v.type=1&ips=198.204.241.82:19590
+BS244 J SPORTS 3,http://104.149.128.134:9560/jsport3/index.m3u8?v.channelid=2088&v.type=1&ips=198.204.241.82:19590
+BS245 J SPORTS 4,http://104.149.128.134:9560/jsport4/index.m3u8?v.channelid=2089&v.type=1&ips=198.204.241.82:19590
+SPOTV ON 1,http://95.216.70.97:9560/SPOTVON1/index.m3u8?v.channelid=2090&v.type=1&ips=192.99.34.62:19591
+SPOTV ON 2,http://95.216.70.97:9560/SPOTVON2/index.m3u8?v.channelid=2091&v.type=1&ips=192.99.34.62:19591
+SPOTV GOLF & HEALTH,http://95.216.70.97:9560/SPOTVGOLFHEALTH/index.m3u8?v.channelid=2092&v.type=1&ips=192.99.34.62:19591
+SBS Golf,http://95.216.70.97:9560/SBSGolf/index.m3u8?v.channelid=2093&v.type=1&ips=192.99.34.62:19591
+JTBC Golf,http://95.216.70.97:9560/JTBCGolf/index.m3u8?v.channelid=2094&v.type=1&ips=192.99.34.62:19591
+JTBC GOLF & SPORTS,http://95.216.70.97:9560/JTBCGOLFSPORTS/index.m3u8?v.channelid=2095&v.type=1&ips=192.99.34.62:19591
+MBC Sports,http://95.216.70.97:9560/MBCSports/index.m3u8?v.channelid=2096&v.type=1&ips=192.99.34.62:19591
+SBS Sports,http://95.216.70.97:9560/SBSSports/index.m3u8?v.channelid=2097&v.type=1&ips=192.99.34.62:19591
+SPOTV 1,http://95.216.70.97:9560/SPOTV1/index.m3u8?v.channelid=2098&v.type=1&ips=192.99.34.62:19591
+SPOTV 2,http://95.216.70.97:9560/SPOTV2/index.m3u8?v.channelid=2099&v.type=1&ips=192.99.34.62:19591
+SPOTV Prime,http://95.216.70.97:9560/SPOTVPrime/index.m3u8?v.channelid=2100&v.type=1&ips=192.99.34.62:19591
+KBSN Sports,http://95.216.70.97:9560/KBSNSports/index.m3u8?v.channelid=2101&v.type=1&ips=192.99.34.62:19591
+SKY Sports,http://95.216.70.97:9560/SKYSports/index.m3u8?v.channelid=2102&v.type=1&ips=192.99.34.62:19591
+NOW英超 1（英语）,http://127.0.0.1:9560/nowsppl1e/index.m3u8?v.channelid=2248&v.type=1&ips=38.46.221.226:29590
+NOW英超 2,http://127.0.0.1:9560/nowsppl2/index.m3u8?v.channelid=2249&v.type=1&ips=38.46.221.226:29590
+NOW英超 3,http://127.0.0.1:9560/nowsppl3/index.m3u8?v.channelid=2250&v.type=1&ips=38.46.221.226:29590
+NOW英超 4,http://127.0.0.1:9560/nowsppl4/index.m3u8?v.channelid=2251&v.type=1&ips=38.46.221.226:29590
+NOW英超 5,http://127.0.0.1:9560/nowsppl5/index.m3u8?v.channelid=2252&v.type=1&ips=38.46.221.226:29590
+NOW英超 6,http://127.0.0.1:9560/nowsppl6/index.m3u8?v.channelid=2253&v.type=1&ips=38.46.221.226:29590
+NOW Sports 630,http://127.0.0.1:9560/nowsp630/index.m3u8?v.channelid=2254&v.type=1&ips=38.46.221.226:29590
+NOW Sports 641,http://127.0.0.1:9560/nowsp641/index.m3u8?v.channelid=2255&v.type=1&ips=38.46.221.226:29590
+NOW NBA,http://127.0.0.1:9560/nownba/index.m3u8?v.channelid=2256&v.type=1&ips=38.46.221.226:29590
+NOW Bein Sports 1,http://127.0.0.1:9560/nowbeinsp1/index.m3u8?v.channelid=2257&v.type=1&ips=38.46.221.226:29590
+NOW Bein Sports 2,http://127.0.0.1:9560/nowbeinsp2/index.m3u8?v.channelid=2258&v.type=1&ips=38.46.221.226:29590
+NOW Bein Sports 3,http://127.0.0.1:9560/nowbeinsp3/index.m3u8?v.channelid=2259&v.type=1&ips=38.46.221.226:29590
+NOW Golf 2,http://127.0.0.1:9560/nowgolf2/index.m3u8?v.channelid=2260&v.type=1&ips=38.46.221.226:29590
+NOW Golf 3,http://127.0.0.1:9560/nowgolf3/index.m3u8?v.channelid=2261&v.type=1&ips=38.46.221.226:29590
+NOW Sports Plus,http://127.0.0.1:9560/nowspplus/index.m3u8?v.channelid=2262&v.type=1&ips=38.46.221.226:29590
+NOW 668 (粤）,http://127.0.0.1:9560/now668yue/index.m3u8?v.channelid=2263&v.type=1&ips=38.46.221.226:29590
+NOW 668 (国）,http://127.0.0.1:9560/now668guo/index.m3u8?v.channelid=2264&v.type=1&ips=38.46.221.226:29590
+NOW 报价台,http://127.0.0.1:9560/nowbaojia/index.m3u8?v.channelid=2265&v.type=1&ips=38.46.221.226:29590
+NOW Movie Movie,http://127.0.0.1:9560/nowmovie/index.m3u8?v.channelid=2266&v.type=1&ips=38.46.221.226:29590
+My TV Super 18,http://127.0.0.1:9560/mytvsp18/index.m3u8?v.channelid=2267&v.type=1&ips=38.46.221.226:29590
+HKC 18,http://127.0.0.1:9560/hkc18/index.m3u8?v.channelid=2268&v.type=1&ips=38.46.221.226:29590
+TVB 88,http://127.0.0.1:9560/tvb88/index.m3u8?v.channelid=2269&v.type=1&ips=38.46.221.226:29590
+电影Mov,#genre#
+HBO HK,http://127.0.0.1:9560/hboyue/index.m3u8?v.channelid=2103&v.type=1&ips=38.58.181.230:19690
+HBO HD,http://127.0.0.1:9560/HBO/index.m3u8?v.channelid=2104&v.type=1&ips=38.75.136.226:18344
+HBO Signature,http://127.0.0.1:9560/HBOSignature/index.m3u8?v.channelid=2105&v.type=1&ips=38.75.136.226:18344
+HBO Family,http://127.0.0.1:9560/HBOFamily/index.m3u8?v.channelid=2106&v.type=1&ips=38.75.136.226:18344
+HBO Hits,http://127.0.0.1:9560/HBOHits/index.m3u8?v.channelid=2107&v.type=1&ips=38.75.136.226:18344
+Cinemax,http://127.0.0.1:9560/cinemax/index.m3u8?v.channelid=2108&v.type=1&ips=108.181.2.193:22263
+美亚电影(粤),http://127.0.0.1.106:9560/meiyayue/index.m3u8?v.channelid=2109&v.type=1&ips=15.235.117.85:19970
+美亚电影(国),http://127.0.0.1:9560/meiyamov/index.m3u8?v.channelid=2110&v.type=1&ips=108.181.2.193:22263
+TVB星河(粤),http://127.0.0.1:9560/15tvbxinghyue/index.m3u8?v.channelid=2111&v.type=1&ips=15.235.117.85:19970
+TVB星河(国),http://127.0.0.1:9560/16tvbxingheguo/index.m3u8?v.channelid=2112&v.type=1&ips=15.235.117.85:19970
+TVB黄金翡翠,http://127.0.0.1:9560/tvbgold/index.m3u8?v.channelid=2113&v.type=1&ips=15.235.117.85:19970
+TVB经典,http://127.0.0.1:9560/13tvbclassic/index.m3u8?v.channelid=2114&v.type=1&ips=15.235.117.85:19970
+TVB功夫片,http://127.0.0.1:9560/tvbaction/index.m3u8?v.channelid=2115&v.type=1&ips=15.235.117.85:19970
+东森电影,http://127.0.0.1:9560/ettvmov/index.m3u8?v.channelid=2117&v.type=1&ips=38.75.136.226:18344
+东森戏剧,http://127.0.0.1:9560/ettvxiju/index.m3u8?v.channelid=2118&v.type=1&ips=38.75.136.226:18344
+东森洋片,http://127.0.0.1:9560/ettvyangpian/index.m3u8?v.channelid=2119&v.type=1&ips=38.75.136.226:18344
+Popc电影,http://127.0.0.1:9560/popc/index.m3u8?v.channelid=2236&v.type=1&ips=38.58.181.230:19690
+龙祥电影,http://127.0.0.1:9560/lstimemov/index.m3u8?v.channelid=2123&v.type=1&ips=108.181.2.193:22263
+好莱坞电影,http://127.0.0.1:9560/hollywoodmov/index.m3u8?v.channelid=2124&v.type=1&ips=108.181.2.193:22263
+AXN,http://127.0.0.1:9560/AXN/index.m3u8?v.channelid=2125&v.type=1&ips=108.181.2.193:22263
+HITS,http://127.0.0.1:9560/HITS/index.m3u8?v.channelid=2126&v.type=1&ips=108.181.2.193:22263
+华纳电视,http://127.0.0.1:9560/warner/index.m3u8?v.channelid=2127&v.type=1&ips=108.181.2.193:22263
+爱尔达影剧,http://127.0.0.1:9560/aldamov/index.m3u8?v.channelid=2128&v.type=1&ips=108.181.2.193:22263
+影迷数位纪实,http://127.0.0.1:9560/yingmishuweijishi/index.m3u8?v.channelid=2130&v.type=1&ips=108.181.2.193:22263
+影迷数位电影,http://127.0.0.1:9560/yingmishuweimov/index.m3u8?v.channelid=2131&v.type=1&ips=108.181.2.193:22263
+AMC最爱电影,http://127.0.0.1:9560/AMC/index.m3u8?v.channelid=2132&v.type=1&ips=38.75.136.226:18344
+Cinema World,http://127.0.0.1:9560/CinemaWorld/index.m3u8?v.channelid=2133&v.type=1&ips=38.75.136.226:18344
+CatchPlay电影,http://127.0.0.1:9560/CATCHPLAYMOV/index.m3u8?v.channelid=2134&v.type=1&ips=38.75.136.226:18344
+My Cinema Europe,http://127.0.0.1:9560/MyCinemaEurope/index.m3u8?v.channelid=2135&v.type=1&ips=108.181.2.193:22263
+龙华电影,http://63.141.250.146:9560/longhuamov/index.m3u8?v.channelid=2136&v.type=1&ips=38.75.136.226:18344
+龙华戏剧,http://63.141.250.146:9560/longhuaxiju/index.m3u8?v.channelid=2137&v.type=1&ips=38.75.136.226:18344
+纬来电影,http://127.0.0.1:9560/vlmovies/index.m3u8?v.channelid=2138&v.type=1&ips=108.181.2.193:22263
+纬来戏剧,http://127.0.0.1:9560/vlxiju/index.m3u8?v.channelid=2139&v.type=1&ips=108.181.2.193:22263
+龙祥电影(加拿大),http://127.0.0.1:9560/lstimeca/index.m3u8?v.channelid=2140&v.type=1&ips=15.235.117.85:19970
+CCTV 6 电影,http://45.88.151.66:9560/06cctv6/index.m3u8?v.channelid=2141&v.type=1&ips=51.79.98.142:19884
+CCTV 8 连续剧,http://45.88.151.66:9560/08cctv8/index.m3u8?v.channelid=2142&v.type=1&ips=51.79.98.142:19884
+CHC高清,http://127.0.0.1:9560/chcgq/index.m3u8?v.channelid=2143&v.type=1&ips=51.79.98.142:19884
+CHC动作,http://127.0.0.1:9560/chcaction/index.m3u8?v.channelid=2144&v.type=1&ips=51.79.98.142:19884
+CHC家庭,http://127.0.0.1:9560/chcfamily/index.m3u8?v.channelid=2145&v.type=1&ips=51.79.98.142:19884
+爱奇艺,http://127.0.0.1:9560/iqiyi/index.m3u8?v.channelid=2146&v.type=1&ips=144.217.67.200:19591
+AOD(粤),http://64.74.167.146:9560/AODHK/index.m3u8?v.channelid=2147&v.type=1&ips=144.217.67.200:19591
+AOD(国),http://64.74.167.146:9560/AODCN/index.m3u8?v.channelid=2148&v.type=1&ips=144.217.67.200:19591
+天映频道(粤),http://64.74.167.146:9560/tianyingyue/index.m3u8?v.channelid=2150&v.type=1&ips=144.217.67.200:19591
+天映频道(国),http://64.74.167.146:9560/tianyingguo/index.m3u8?v.channelid=2151&v.type=1&ips=144.217.67.200:19591
+天映经典,http://64.74.167.146:9560/tianyingjdguo/index.m3u8?v.channelid=2153&v.type=1&ips=144.217.67.200:19591
+知识Edu,#genre#
+探索频道,http://63.141.250.146:9560/discoverytw/index.m3u8?v.channelid=2158&v.type=1&ips=38.75.136.226:18344
+探索科学,http://63.141.250.146:9560/discoveryscience/index.m3u8?v.channelid=2159&v.type=1&ips=38.75.136.226:18344
+DMAX,http://63.141.250.146:9560/DMAX/index.m3u8?v.channelid=2160&v.type=1&ips=38.75.136.226:18344
+探索亚洲,http://63.141.250.146:9560/discoveryasia/index.m3u8?v.channelid=2161&v.type=1&ips=38.75.136.226:18344
+国家地理,http://63.141.250.146:9560/natgeo/index.m3u8?v.channelid=2162&v.type=1&ips=38.75.136.226:18344
+国家地理野生,http://63.141.250.146:9560/natgeowild/index.m3u8?v.channelid=2163&v.type=1&ips=38.75.136.226:18344
+动物星球,http://63.141.250.146:9560/animalplanet/index.m3u8?v.channelid=2164&v.type=1&ips=38.75.136.226:18344
+历史频道 1,http://63.141.250.146:9560/history1/index.m3u8?v.channelid=2165&v.type=1&ips=38.75.136.226:18344
+历史频道 2,http://127.0.0.1:9560/history2/index.m3u8?v.channelid=2166&v.type=1&ips=38.75.136.226:18344
+亚洲美食,http://63.141.250.146:9560/afn/index.m3u8?v.channelid=2167&v.type=1&ips=38.75.136.226:18344
+美食星球,http://63.141.250.146:9560/foodplanet/index.m3u8?v.channelid=2168&v.type=1&ips=38.75.136.226:18344
+亚洲旅游,http://63.141.250.146:9560/asiatravel/index.m3u8?v.channelid=2169&v.type=1&ips=38.75.136.226:18344
+BBC Lifestyle,http://63.141.250.146:9560/BBCLifestyle/index.m3u8?v.channelid=2170&v.type=1&ips=38.75.136.226:18344
+Smithsonian Channel,http://63.141.250.146:9560/SmithsonianChannel/index.m3u8?v.channelid=2171&v.type=1&ips=51.79.78.8:9590
+Lifetime,http://63.141.250.146:9560/Lifetime/index.m3u8?v.channelid=2172&v.type=1&ips=38.75.136.226:18344
+Love Nature,http://63.141.250.146:9560/LoveNature/index.m3u8?v.channelid=2173&v.type=1&ips=38.75.136.226:18344
+BBC earth,http://127.0.0.1:9560/bbcearth/index.m3u8?v.channelid=2174&v.type=1&ips=38.75.136.226:18344
+CI罪案侦查,http://173.234.25.90:9560/CI/index.m3u8?v.channelid=2175&v.type=1&ips=108.181.2.193:22263
+视纳华仁纪实,http://127.0.0.1:9560/shinarenhua/index.m3u8?v.channelid=2176&v.type=1&ips=108.181.2.193:22263
+CCTV 9 纪录片,http://45.88.151.66:9560/09cctv9/index.m3u8?v.channelid=2177&v.type=1&ips=51.79.98.142:19884
+CCTV 10 科教,http://45.88.151.66:9560/10cctv10/index.m3u8?v.channelid=2178&v.type=1&ips=51.79.98.142:19884
+CCTV 12 社法,http://45.88.151.66:9560/12cctv12/index.m3u8?v.channelid=2179&v.type=1&ips=51.79.98.142:19884
+Discovery US,http://51.161.87.108:9560/discovery/index.m3u8?v.channelid=2180&v.type=1&ips=51.79.72.168:29593
+NatGeo US,http://51.161.87.108:9560/natgeo/index.m3u8?v.channelid=2181&v.type=1&ips=51.79.72.168:29593
+NatGeo Wild US,http://104.149.150.86:9560/NatGeoWild/index.m3u8?v.channelid=2182&v.type=1&ips=66.70.176.222:9598
+Discovery Science US,http://148.251.66.26:9560/discoveryscience/index.m3u8?v.channelid=2183&v.type=1&ips=94.130.8.187:9590
+Investigation Discovery US,http://51.161.116.93:9560/InvestagationDiscovery/index.m3u8?v.channelid=2184&v.type=1&ips=148.113.176.47:19698
+Animal Planet US,http://127.0.0.1:9560/animalplanet/index.m3u8?v.channelid=2185&v.type=1&ips=51.79.72.168:29593
+History 1 US,http://104.149.150.86:9560/History/index.m3u8?v.channelid=2186&v.type=1&ips=66.70.176.222:9598
+History 2 US,http://127.0.0.1:9560/History2/index.m3u8?v.channelid=2187&v.type=1&ips=51.79.78.8:9590
+Science US,http://51.161.87.108:9560/19Science/index.m3u8?v.channelid=2188&v.type=1&ips=51.79.72.168:29593
+TLC US,http://127.0.0.1:9560/TLC/index.m3u8?v.channelid=2189&v.type=1&ips=148.113.176.47:19698
+音乐Music,#genre#
+粤语经典,http://127.0.0.1:9560/yuemu/index.m3u8?v.channelid=2190&v.type=1&ips=65.21.93.207:19595
+粤语歌曲1974-94,http://127.0.0.1:9560/yue7494/index.m3u8?v.channelid=2194&v.type=1&ips=65.21.93.207:19595
+香港怀旧金曲,http://127.0.0.1:9560/yueold/index.m3u8?v.channelid=2195&v.type=1&ips=65.21.93.207:19595
+陈百强,http://127.0.0.1:9560/chenbaiqiang/index.m3u8?v.channelid=2196&v.type=1&ips=65.21.93.207:19595
+刘德华,http://127.0.0.1:9560/liudehua/index.m3u8?v.channelid=2197&v.type=1&ips=65.21.93.207:19595
+陈慧娴,http://127.0.0.1:9560/chenhuixian/index.m3u8?v.channelid=2198&v.type=1&ips=65.21.93.207:19595
+Beyond黄家驹,http://127.0.0.1:9560/beyond/index.m3u8?v.channelid=2199&v.type=1&ips=65.21.93.207:19595
+郑少秋,http://127.0.0.1:9560/zhengshaoqiu/index.m3u8?v.channelid=2200&v.type=1&ips=65.21.93.207:19595
+王菲,http://127.0.0.1:9560/wangfei/index.m3u8?v.channelid=2201&v.type=1&ips=65.21.93.207:19595
+刘若英,http://127.0.0.1:9560/liuruoying/index.m3u8?v.channelid=2202&v.type=1&ips=65.21.93.207:19595
+周华健,http://127.0.0.1:9560/zhouhuajian/index.m3u8?v.channelid=2203&v.type=1&ips=65.21.93.207:19595
+90年代华语经典,http://127.0.0.1:9560/90scn/index.m3u8?v.channelid=2191&v.type=1&ips=65.21.93.207:19595
+00年代华语经典,http://127.0.0.1:9560/00s/index.m3u8?v.channelid=2192&v.type=1&ips=65.21.93.207:19595
+10年代华语经典,http://127.0.0.1:9560/10s/index.m3u8?v.channelid=2193&v.type=1&ips=65.21.93.207:19595
+郁可唯,http://127.0.0.1:9560/yukewei/index.m3u8?v.channelid=2204&v.type=1&ips=65.21.93.207:19595
+王心凌,http://127.0.0.1:9560/wangxinling/index.m3u8?v.channelid=2205&v.type=1&ips=65.21.93.207:19595
+徐佳莹,http://127.0.0.1:9560/xujiaying/index.m3u8?v.channelid=2206&v.type=1&ips=65.21.93.207:19595
+徐佳莹,http://127.0.0.1:9560/xujiaying/index.m3u8?v.channelid=2207&v.type=1&ips=65.21.93.207:19595
+陈绮贞,http://127.0.0.1:9560/chenqizhen/index.m3u8?v.channelid=2208&v.type=1&ips=65.21.93.207:19595
+戴佩妮,http://127.0.0.1:9560/daipeini/index.m3u8?v.channelid=2209&v.type=1&ips=65.21.93.207:19595
+那英,http://127.0.0.1:9560/naying/index.m3u8?v.channelid=2210&v.type=1&ips=65.21.93.207:19595
+任然,http://127.0.0.1:9560/renran/index.m3u8?v.channelid=2211&v.type=1&ips=65.21.93.207:19595
+香港HK,#genre#
+TVB翡翠,http://127.0.0.1:9560/01tvbjade264/index.m3u8?v.channelid=580&v.type=1&ips=15.235.117.85:32342
+TVB翡翠(4K),http://127.0.0.1:9560/tvbjade/index.m3u8?v.channelid=581&v.type=1&ips=51.79.98.142:19884
+TVB无线新闻,http://127.0.0.1:9560/03tvbnews264/index.m3u8?v.channelid=582&v.type=1&ips=15.235.117.85:32342
+TVB Plus,http://127.0.0.1:9560/04tvbj5264/index.m3u8?v.channelid=584&v.type=1&ips=38.58.181.230:19690
+TVB明珠,http://127.0.0.1:9560/05tvbpearl264/index.m3u8?v.channelid=1090&v.type=1&ips=38.58.181.230:19690
+Viu TV,http://127.0.0.1:9560/06viutv264/index.m3u8?v.channelid=1093&v.type=1&ips=38.58.181.230:19690
+Viu 6,http://127.0.0.1:9560/07viutv6264/index.m3u8?v.channelid=1107&v.type=1&ips=38.58.181.230:19690
+NOWTV新闻,http://127.0.0.1:9560/16nownews/index.m3u8?v.channelid=1259&v.type=1&ips=15.235.117.85:32342
+NOWTV财经,http://127.0.0.1:9560/18nowbusi/index.m3u8?v.channelid=1261&v.type=1&ips=38.58.181.230:19690
+香港HOY TV,http://127.0.0.1:9560/hoytv/index.m3u8?v.channelid=1108&v.type=1&ips=15.235.117.85:19970
+香港HOY TV资讯,http://127.0.0.1:9560/hoytvzx/index.m3u8?v.channelid=1909&v.type=1&ips=38.58.181.230:19690
+香港电台RTHK31,http://127.0.0.1:9560/10rthk31/index.m3u8?v.channelid=1265&v.type=1&ips=15.235.117.85:19970
+香港电台RTHK32,http://127.0.0.1:9560/11rthk32/index.m3u8?v.channelid=1266&v.type=1&ips=15.235.117.85:19970
+凤凰香港,http://127.0.0.1:9560/09fhhk/index.m3u8?v.channelid=1179&v.type=1&ips=15.235.117.85:19970
+凤凰卫视,http://127.0.0.1:9560/08fhws/index.m3u8?v.channelid=1177&v.type=1&ips=15.235.117.85:19970
+凤凰资讯,http://127.0.0.1:9560/07fhzx/index.m3u8?v.channelid=1178&v.type=1&ips=15.235.117.85:32342
+NOW星影,http://127.0.0.1:9560/19nowxingying/index.m3u8?v.channelid=1262&v.type=1&ips=38.58.181.230:19690
+NOW爆谷,http://127.0.0.1:9560/20nowbaogu/index.m3u8?v.channelid=1263&v.type=1&ips=38.58.181.230:19690
+NOW剧集,http://127.0.0.1:9560/nowjuji/index.m3u8?v.channelid=1816&v.type=1&ips=38.58.181.230:19690
+NOW华剧,http://127.0.0.1:9560/nowhuaju/index.m3u8?v.channelid=1817&v.type=1&ips=38.58.181.230:19690
+NOW紫金,http://127.0.0.1:9560/nowjelli/index.m3u8?v.channelid=1826&v.type=1&ips=15.235.117.85:19970
+HBO HK,http://127.0.0.1:9560/hboyue/index.m3u8?v.channelid=1818&v.type=1&ips=38.58.181.230:19690
+美亚电影,http://127.0.0.1.106:9560/meiyayue/index.m3u8?v.channelid=1264&v.type=1&ips=15.235.117.85:19970
+TVB经典,http://127.0.0.1:9560/13tvbclassic/index.m3u8?v.channelid=1267&v.type=1&ips=15.235.117.85:19970
+TVB星河(粤),http://127.0.0.1:9560/15tvbxinghyue/index.m3u8?v.channelid=1911&v.type=1&ips=15.235.117.85:19970
+TVB星河(国),http://127.0.0.1:9560/16tvbxingheguo/index.m3u8?v.channelid=1099&v.type=1&ips=15.235.117.85:19970
+TVB娱乐新闻,http://127.0.0.1:9560/14tvbenews/index.m3u8?v.channelid=1268&v.type=1&ips=15.235.117.85:19970
+TVB黄金翡翠,http://127.0.0.1:9560/tvbgold/index.m3u8?v.channelid=1827&v.type=1&ips=15.235.117.85:19970
+TVB功夫片,http://127.0.0.1:9560/tvbaction/index.m3u8?v.channelid=1828&v.type=1&ips=15.235.117.85:19970
+TVB粤语片,http://127.0.0.1:9560/tvbyueyu/index.m3u8?v.channelid=1829&v.type=1&ips=15.235.117.85:19970
+TVB华语剧,http://127.0.0.1:9560/tvbhuayu/index.m3u8?v.channelid=1831&v.type=1&ips=15.235.117.85:19970
+TVB亚洲剧,http://127.0.0.1:9560/tvbasia/index.m3u8?v.channelid=1830&v.type=1&ips=15.235.117.85:19970
+TVB亚洲综艺,http://127.0.0.1:9560/tvbasiazy/index.m3u8?v.channelid=1833&v.type=1&ips=15.235.117.85:19970
+TVB戏曲,http://127.0.0.1:9560/tvbxiqu/index.m3u8?v.channelid=1832&v.type=1&ips=15.235.117.85:19970
+TVB赛马18,http://127.0.0.1:9560/tvbracing/index.m3u8?v.channelid=1819&v.type=1&ips=38.58.181.230:19690
+黄金华剧台,http://127.0.0.1:9560/hjhuaju/index.m3u8?v.channelid=2231&v.type=1&ips=15.235.117.85:32342
+Thrill,http://127.0.0.1:9560/thrill/index.m3u8?v.channelid=2233&v.type=1&ips=15.235.117.85:32342
+28AI智慧跑马,http://127.0.0.1:9560/28aipaoma/index.m3u8?v.channelid=2237&v.type=1&ips=15.235.117.85:19970
+NOW体育 1,http://127.0.0.1:9560/nowsp1/index.m3u8?v.channelid=1822&v.type=1&ips=15.235.117.85:19970
+NOW体育 2,http://127.0.0.1:9560/nowsp2/index.m3u8?v.channelid=1823&v.type=1&ips=15.235.117.85:19970
+NOW体育 3,http://127.0.0.1:9560/nowsp3/index.m3u8?v.channelid=1824&v.type=1&ips=15.235.117.85:19970
+NOW体育 4,http://103.214.108.226:9560/nowsp4/index.m3u8?v.channelid=1902&v.type=1&ips=15.235.117.85:19970
+NOW体育 5,http://103.214.108.226:9560/nowsp5/index.m3u8?v.channelid=1903&v.type=1&ips=15.235.117.85:19970
+NOW体育 6,http://103.214.108.226:9560/nowsp6/index.m3u8?v.channelid=1904&v.type=1&ips=15.235.117.85:19970
+NOW体育 7,http://103.214.108.226:9560/nowsp7/index.m3u8?v.channelid=1905&v.type=1&ips=15.235.117.85:19970
+NOW英超 ,http://127.0.0.1:9560/nowtvpl1/index.m3u8?v.channelid=1834&v.type=1&ips=15.235.117.85:19970
+有线赛马18,http://127.0.0.1:9560/hkcracing/index.m3u8?v.channelid=2241&v.type=1&ips=38.58.181.230:19690
+广东体育,http://127.0.0.1:9560/gdty/index.m3u8?v.channelid=1910&v.type=1&ips=38.58.181.230:19690
+SUPER Kids Channel,http://127.0.0.1:9560/handsup/index.m3u8?v.channelid=1825&v.type=1&ips=15.235.117.85:19970
+澳门莲花,http://127.0.0.1.106:9560/21lotus/index.m3u8?v.channelid=906&v.type=1&ips=38.58.181.230:19690
+台湾TW,#genre#
+民视,http://127.0.0.1:9560/ftv/index.m3u8?v.channelid=585&v.type=1&ips=108.181.2.193:22263
+台视,http://127.0.0.1:9560/ttv/index.m3u8?v.channelid=586&v.type=1&ips=108.181.2.193:22263
+华视,http://127.0.0.1:9560/cts/index.m3u8?v.channelid=587&v.type=1&ips=108.181.2.193:22263
+中视,http://127.0.0.1:9560/zongshi/index.m3u8?v.channelid=588&v.type=1&ips=38.75.136.226:18344
+东森综合,http://173.234.25.90:9560/dszhe/index.m3u8?v.channelid=1894&v.type=1&ips=38.75.136.226:18344
+东森超视,http://173.234.25.90:9560/dscsh/index.m3u8?v.channelid=1895&v.type=1&ips=38.75.136.226:18344
+中天新闻,http://127.0.0.1:9560/ctitvnews/index.m3u8?v.channelid=531&v.type=1&ips=15.235.117.85:32342
+中天娱乐,http://127.0.0.1:9560/ctitvyl/index.m3u8?v.channelid=798&v.type=1&ips=108.181.2.193:22263
+中天综合,http://127.0.0.1:9560/ctitvzh/index.m3u8?v.channelid=799&v.type=1&ips=108.181.2.193:22263
+公视,http://127.0.0.1:9560/gongshi/index.m3u8?v.channelid=1293&v.type=1&ips=108.181.2.193:22263
+TVBS新闻,http://127.0.0.1:9560/TVBSnews/index.m3u8?v.channelid=1274&v.type=1&ips=15.235.117.85:32342
+TVBS,http://104.149.131.155:9560/tvbs/index.m3u8?v.channelid=1182&v.type=1&ips=15.235.117.85:32342
+TVBS欢乐,http://127.0.0.1:9560/TVBShuanle/index.m3u8?v.channelid=1275&v.type=1&ips=38.75.136.226:18344
+TVBS精采,http://127.0.0.1:9560/TVBSjingcai/index.m3u8?v.channelid=1276&v.type=1&ips=38.75.136.226:18344
+东森新闻,http://173.234.25.90:9560/ettvnews/index.m3u8?v.channelid=1277&v.type=1&ips=15.235.117.85:32342
+东森财经新闻,http://173.234.25.90:9560/ettvbusinews/index.m3u8?v.channelid=1278&v.type=1&ips=38.75.136.226:18344
+东森电影,http://127.0.0.1:9560/ettvmov/index.m3u8?v.channelid=1279&v.type=1&ips=38.75.136.226:18344
+东森戏剧,http://127.0.0.1:9560/ettvxiju/index.m3u8?v.channelid=1280&v.type=1&ips=38.75.136.226:18344
+东森洋片,http://127.0.0.1:9560/ettvyangpian/index.m3u8?v.channelid=1281&v.type=1&ips=38.75.136.226:18344
+民视新闻,http://127.0.0.1:9560/msxw/index.m3u8?v.channelid=1871&v.type=1&ips=108.181.2.193:22263
+三立新闻,http://173.234.25.90:9560/shanlinews/index.m3u8?v.channelid=1282&v.type=1&ips=15.235.117.85:32342
+三立戏剧,http://127.0.0.1:9560/shanlixiju/index.m3u8?v.channelid=1283&v.type=1&ips=38.75.136.226:18344
+三立綜合,http://127.0.0.1:9560/shanlizonghe/index.m3u8?v.channelid=1284&v.type=1&ips=38.75.136.226:18344
+三立台湾,http://127.0.0.1:9560/shanlitw/index.m3u8?v.channelid=1285&v.type=1&ips=38.75.136.226:18344
+三立都会,http://127.0.0.1:9560/shanliduhui/index.m3u8?v.channelid=1286&v.type=1&ips=108.181.2.193:22263
+三立国际,http://127.0.0.1:9560/sligj/index.m3u8?v.channelid=1899&v.type=1&ips=38.75.136.226:18344
+中视新闻,http://173.234.25.90:9560/zsnews/index.m3u8?v.channelid=1288&v.type=1&ips=38.75.136.226:18344
+中视经典,http://173.234.25.90:9560/zsjigndian/index.m3u8?v.channelid=1289&v.type=1&ips=38.75.136.226:18344
+中视菁采,http://173.234.25.90:9560/zsjigncai/index.m3u8?v.channelid=1290&v.type=1&ips=38.75.136.226:18344
+镜新闻,http://127.0.0.1:9560/jinnews/index.m3u8?v.channelid=1892&v.type=1&ips=38.75.136.226:18344
+台视新闻,http://127.0.0.1:9560/tsnews/index.m3u8?v.channelid=1291&v.type=1&ips=108.181.2.193:22263
+三立i新闻,http://173.234.25.90:9560/slinews/index.m3u8?v.channelid=1893&v.type=1&ips=108.181.2.193:22263
+壹电视新闻,http://127.0.0.1:9560/onenews/index.m3u8?v.channelid=1296&v.type=1&ips=108.181.2.193:22263
+非凡新闻,http://173.234.25.90:9560/feifannews/index.m3u8?v.channelid=1298&v.type=1&ips=38.75.136.226:18344
+寰宇新闻,http://127.0.0.1:9560/huanynews/index.m3u8?v.channelid=1294&v.type=1&ips=15.235.117.85:32342
+寰宇新闻台湾,http://127.0.0.1:9560/huanynewstw/index.m3u8?v.channelid=1295&v.type=1&ips=108.181.2.193:22263
+年代新闻,http://127.0.0.1:9560/niandainews/index.m3u8?v.channelid=1297&v.type=1&ips=15.235.117.85:32342
+台视财经,http://127.0.0.1:9560/tsbusinews/index.m3u8?v.channelid=1292&v.type=1&ips=108.181.2.193:22263
+Cinemax,http://127.0.0.1:9560/cinemax/index.m3u8?v.channelid=1913&v.type=1&ips=108.181.2.193:22263
+美亚电影,http://127.0.0.1:9560/meiyamov/index.m3u8?v.channelid=1299&v.type=1&ips=108.181.2.193:22263
+龙祥电影,http://127.0.0.1:9560/lstimemov/index.m3u8?v.channelid=1303&v.type=1&ips=108.181.2.193:22263
+好莱坞电影,http://127.0.0.1:9560/hollywoodmov/index.m3u8?v.channelid=1304&v.type=1&ips=108.181.2.193:22263
+HBO,http://127.0.0.1:9560/HBO/index.m3u8?v.channelid=1305&v.type=1&ips=38.75.136.226:18344
+HBO Signature,http://127.0.0.1:9560/HBOSignature/index.m3u8?v.channelid=1306&v.type=1&ips=38.75.136.226:18344
+HBO Family,http://127.0.0.1:9560/HBOFamily/index.m3u8?v.channelid=1307&v.type=1&ips=38.75.136.226:18344
+HBO Hits,http://127.0.0.1:9560/HBOHits/index.m3u8?v.channelid=1308&v.type=1&ips=38.75.136.226:18344
+AXN,http://127.0.0.1:9560/AXN/index.m3u8?v.channelid=1309&v.type=1&ips=108.181.2.193:22263
+HITS,http://127.0.0.1:9560/HITS/index.m3u8?v.channelid=1310&v.type=1&ips=108.181.2.193:22263
+华纳电视,http://127.0.0.1:9560/warner/index.m3u8?v.channelid=1311&v.type=1&ips=108.181.2.193:22263
+爱尔达影剧,http://127.0.0.1:9560/aldamov/index.m3u8?v.channelid=1312&v.type=1&ips=108.181.2.193:22263
+CI罪案侦查,http://173.234.25.90:9560/CI/index.m3u8?v.channelid=1313&v.type=1&ips=108.181.2.193:22263
+影迷数位纪实,http://127.0.0.1:9560/yingmishuweijishi/index.m3u8?v.channelid=1314&v.type=1&ips=108.181.2.193:22263
+影迷数位电影,http://127.0.0.1:9560/yingmishuweimov/index.m3u8?v.channelid=1315&v.type=1&ips=108.181.2.193:22263
+AMC最爱电影,http://173.234.25.90:9560/AMC/index.m3u8?v.channelid=1316&v.type=1&ips=38.75.136.226:18344
+Cinema World,http://173.234.25.90:9560/CinemaWorld/index.m3u8?v.channelid=1317&v.type=1&ips=38.75.136.226:18344
+CatchPlay电影,http://173.234.25.90:9560/CATCHPLAYMOV/index.m3u8?v.channelid=1319&v.type=1&ips=38.75.136.226:18344
+My Cinema Europe,http://127.0.0.1:9560/MyCinemaEurope/index.m3u8?v.channelid=1320&v.type=1&ips=108.181.2.193:22263
+视纳华仁纪实,http://127.0.0.1:9560/shinarenhua/index.m3u8?v.channelid=1321&v.type=1&ips=108.181.2.193:22263
+博斯运动1,http://173.234.25.90:9560/boshisp1/index.m3u8?v.channelid=1322&v.type=1&ips=38.75.136.226:18344
+博斯运动2,http://173.234.25.90:9560/boshisp2/index.m3u8?v.channelid=1323&v.type=1&ips=38.75.136.226:18344
+博斯魅力,http://173.234.25.90:9560/boshimeili/index.m3u8?v.channelid=1324&v.type=1&ips=38.75.136.226:18344
+博斯高球1,http://127.0.0.1:9560/boshigolf1/index.m3u8?v.channelid=1325&v.type=1&ips=108.181.2.193:22263
+博斯高球2,http://127.0.0.1:9560/boshigolf2/index.m3u8?v.channelid=1326&v.type=1&ips=108.181.2.193:22263
+博斯无限1,http://63.141.250.146:9560/boshiwuxian1/index.m3u8?v.channelid=1327&v.type=1&ips=38.75.136.226:18344
+博斯无限2,http://63.141.250.146:9560/boshiwuxian2/index.m3u8?v.channelid=1328&v.type=1&ips=38.75.136.226:18344
+博斯网球,http://63.141.250.146:9560/boshitennis/index.m3u8?v.channelid=1329&v.type=1&ips=38.75.136.226:18344
+ELEVEN体育1,http://127.0.0.1:9560/ELEVEN1/index.m3u8?v.channelid=1330&v.type=1&ips=38.75.136.226:18344
+ELEVEN体育2,http://127.0.0.1:9560/ELEVEN2/index.m3u8?v.channelid=1331&v.type=1&ips=38.75.136.226:18344
+MOMO綜合,http://63.141.250.146:9560/MOMOzonghe/index.m3u8?v.channelid=1332&v.type=1&ips=38.75.136.226:18344
+JET综合,http://63.141.250.146:9560/JETzonghe/index.m3u8?v.channelid=1333&v.type=1&ips=38.75.136.226:18344
+龙华电影,http://63.141.250.146:9560/longhuamov/index.m3u8?v.channelid=1335&v.type=1&ips=38.75.136.226:18344
+龙华日韩,http://63.141.250.146:9560/longhuajpkr/index.m3u8?v.channelid=1336&v.type=1&ips=38.75.136.226:18344
+龙华戏剧,http://63.141.250.146:9560/longhuaxiju/index.m3u8?v.channelid=1337&v.type=1&ips=38.75.136.226:18344
+龙华经典,http://63.141.250.146:9560/longhuaclassic/index.m3u8?v.channelid=1338&v.type=1&ips=38.75.136.226:18344
+龙华偶像,http://63.141.250.146:9560/longhuaouxiang/index.m3u8?v.channelid=1339&v.type=1&ips=38.75.136.226:18344
+龙华卡通,http://63.141.250.146:9560/longhuacartoon/index.m3u8?v.channelid=1340&v.type=1&ips=38.75.136.226:18344
+龙华洋片,http://127.0.0.1:9560/longhuaypin/index.m3u8?v.channelid=2232&v.type=1&ips=38.75.136.226:18344
+靖天戏剧,http://63.141.250.146:9560/jingtianxiju/index.m3u8?v.channelid=1341&v.type=1&ips=38.75.136.226:18344
+靖天卡通,http://63.141.250.146:9560/jingtiancartoon/index.m3u8?v.channelid=1343&v.type=1&ips=38.75.136.226:18344
+靖洋卡通,http://63.141.250.146:9560/jingyangcartoon/index.m3u8?v.channelid=1344&v.type=1&ips=38.75.136.226:18344
+靖天综合,http://63.141.250.146:9560/jingtianzhonghe/index.m3u8?v.channelid=1345&v.type=1&ips=38.75.136.226:18344
+靖天日本,http://63.141.250.146:9560/jingtianjapan/index.m3u8?v.channelid=1346&v.type=1&ips=38.75.136.226:18344
+靖天映画,http://63.141.250.146:9560/jingtianyinghua/index.m3u8?v.channelid=1347&v.type=1&ips=38.75.136.226:18344
+靖天电影,http://63.141.250.146:9560/jingtianmov/index.m3u8?v.channelid=1348&v.type=1&ips=38.75.136.226:18344
+靖天育乐,http://63.141.250.146:9560/jingtianyuele/index.m3u8?v.channelid=1349&v.type=1&ips=38.75.136.226:18344
+靖天欢乐,http://63.141.250.146:9560/jingtianhuanle/index.m3u8?v.channelid=1350&v.type=1&ips=38.75.136.226:18344
+靖天国际,http://63.141.250.146:9560/jingtianguoji/index.m3u8?v.channelid=1351&v.type=1&ips=38.75.136.226:18344
+靖洋戏剧,http://63.141.250.146:9560/jingyangxiju/index.m3u8?v.channelid=1342&v.type=1&ips=38.75.136.226:18344
+探索亚洲,http://63.141.250.146:9560/discoveryasia/index.m3u8?v.channelid=1352&v.type=1&ips=38.75.136.226:18344
+探索频道,http://63.141.250.146:9560/discoverytw/index.m3u8?v.channelid=1353&v.type=1&ips=38.75.136.226:18344
+探索科学,http://63.141.250.146:9560/discoveryscience/index.m3u8?v.channelid=1355&v.type=1&ips=38.75.136.226:18344
+DMAX,http://63.141.250.146:9560/DMAX/index.m3u8?v.channelid=1356&v.type=1&ips=38.75.136.226:18344
+亚洲旅游,http://63.141.250.146:9560/asiatravel/index.m3u8?v.channelid=1357&v.type=1&ips=38.75.136.226:18344
+BBC earth,http://127.0.0.1:9560/bbcearth/index.m3u8?v.channelid=1900&v.type=1&ips=38.75.136.226:18344
+环球旅行家,http://63.141.250.146:9560/globaltravel/index.m3u8?v.channelid=1908&v.type=1&ips=38.75.136.226:18344
+动物星球,http://63.141.250.146:9560/animalplanet/index.m3u8?v.channelid=1360&v.type=1&ips=38.75.136.226:18344
+历史频道,http://63.141.250.146:9560/history1/index.m3u8?v.channelid=1361&v.type=1&ips=38.75.136.226:18344
+Global Trekker,http://63.141.250.146:9560/Globaltrekker/index.m3u8?v.channelid=1373&v.type=1&ips=38.75.136.226:18344
+亚洲美食,http://63.141.250.146:9560/afn/index.m3u8?v.channelid=1363&v.type=1&ips=38.75.136.226:18344
+美食星球,http://63.141.250.146:9560/foodplanet/index.m3u8?v.channelid=1364&v.type=1&ips=38.75.136.226:18344
+BBC Lifestyle,http://63.141.250.146:9560/BBCLifestyle/index.m3u8?v.channelid=1365&v.type=1&ips=38.75.136.226:18344
+TLC旅遊台,http://127.0.0.1:9560/tlc/index.m3u8?v.channelid=2238&v.type=1&ips=38.75.136.226:18344
+Lifetime,http://63.141.250.146:9560/Lifetime/index.m3u8?v.channelid=1367&v.type=1&ips=38.75.136.226:18344
+Love Nature,http://63.141.250.146:9560/LoveNature/index.m3u8?v.channelid=1368&v.type=1&ips=38.75.136.226:18344
+HGTV TW,http://38.75.136.217:9560/hgtvtw/index.m3u8?v.channelid=2240&v.type=1&ips=15.235.117.85:19970
+尼克儿童,http://63.141.250.146:9560/nick/index.m3u8?v.channelid=1370&v.type=1&ips=38.75.136.226:18344
+MOMO亲子,http://63.141.250.146:9560/MOMOqinzi/index.m3u8?v.channelid=1371&v.type=1&ips=38.75.136.226:18344
+CN卡通,http://63.141.250.146:9560/cartoon/index.m3u8?v.channelid=1372&v.type=1&ips=38.75.136.226:18344
+Nick Jr,http://63.141.250.146:9560/NickJr/index.m3u8?v.channelid=1369&v.type=1&ips=38.75.136.226:18344
+i-Fun动漫,http://63.141.250.146:9560/iFun/index.m3u8?v.channelid=1374&v.type=1&ips=38.75.136.226:18344
+达芬奇儿童,http://63.141.250.146:9560/DaVinci/index.m3u8?v.channelid=1375&v.type=1&ips=38.75.136.226:18344
+东森幼幼,http://63.141.250.146:9560/yoyo/index.m3u8?v.channelid=1376&v.type=1&ips=38.75.136.226:18344
+Boomerang,http://63.141.250.146:9560/Boomeran/index.m3u8?v.channelid=1377&v.type=1&ips=38.75.136.226:18344
+Animax,http://63.141.250.146:9560/Animax/index.m3u8?v.channelid=1378&v.type=1&ips=38.75.136.226:18344
+Baby TV,http://127.0.0.1:9560/baby/index.m3u8?v.channelid=1641&v.type=1&ips=108.181.2.193:22263
+爱尔达体育 1,http://127.0.0.1:9560/eltasp1/index.m3u8?v.channelid=1862&v.type=1&ips=38.75.136.226:18344
+爱尔达体育 2,http://127.0.0.1:9560/eltasp2/index.m3u8?v.channelid=1863&v.type=1&ips=38.75.136.226:18344
+爱尔达体育 3,http://127.0.0.1:9560/eltasp3/index.m3u8?v.channelid=1864&v.type=1&ips=38.75.136.226:18344
+幸福居家,http://127.0.0.1:9560/xfjj/index.m3u8?v.channelid=2239&v.type=1&ips=38.75.136.226:18344
+八大第一,http://127.0.0.1:9560/gtv1/index.m3u8?v.channelid=810&v.type=1&ips=38.75.136.226:18344
+八大戏剧,http://127.0.0.1:9560/gtvxiju/index.m3u8?v.channelid=811&v.type=1&ips=38.75.136.226:18344
+八大娱乐,http://127.0.0.1:9560/gtvyl/index.m3u8?v.channelid=812&v.type=1&ips=38.75.136.226:18344
+八大综合,http://127.0.0.1:9560/gtv/index.m3u8?v.channelid=813&v.type=1&ips=38.75.136.226:18344
+八大精彩,http://127.0.0.1:9560/gtvjc/index.m3u8?v.channelid=814&v.type=1&ips=38.75.136.226:18344
+Fashion TV,http://63.141.250.146:9560/FTV/index.m3u8?v.channelid=1366&v.type=1&ips=38.75.136.226:18344
+纬来育乐,http://127.0.0.1:9560/vlmaxtv/index.m3u8?v.channelid=804&v.type=1&ips=108.181.2.193:22263
+纬来体育,http://127.0.0.1:9560/vlsport/index.m3u8?v.channelid=805&v.type=1&ips=108.181.2.193:22263
+纬来综合,http://127.0.0.1:9560/vlontv/index.m3u8?v.channelid=806&v.type=1&ips=108.181.2.193:22263
+纬来电影,http://127.0.0.1:9560/vlmovies/index.m3u8?v.channelid=807&v.type=1&ips=108.181.2.193:22263
+纬来戏剧,http://127.0.0.1:9560/vlxiju/index.m3u8?v.channelid=808&v.type=1&ips=108.181.2.193:22263
+纬来日本,http://127.0.0.1:9560/vljapan/index.m3u8?v.channelid=809&v.type=1&ips=108.181.2.193:22263
+纬来精彩,http://127.0.0.1:9560/wljc/index.m3u8?v.channelid=1887&v.type=1&ips=108.181.2.193:22263
+EYE戏剧,http://173.234.25.90:9560/eyexj/index.m3u8?v.channelid=1891&v.type=1&ips=38.75.136.226:18344
+EYE旅游,http://127.0.0.1:9560/eyely/index.m3u8?v.channelid=2234&v.type=1&ips=38.75.136.226:18344
+韩国娱乐台,http://127.0.0.1:9560/kmtv/index.m3u8?v.channelid=1907&v.type=1&ips=38.75.136.226:18344
+MTV TW,http://127.0.0.1:9560/mtv/index.m3u8?v.channelid=2242&v.type=1&ips=108.181.2.193:22263
+Channel V,http://127.0.0.1:9560/channelv/index.m3u8?v.channelid=2243&v.type=1&ips=108.181.2.193:22263
+大爱,http://63.141.250.146:9560/daai/index.m3u8?v.channelid=1782&v.type=1&ips=38.75.136.226:18344
+大陆CN,#genre#
+CCTV 1 综合,http://45.88.151.66:9560/01cctv1/index.m3u8?v.channelid=1184&v.type=1&ips=51.79.98.142:19884
+CCTV 2 财经,http://45.88.151.66:9560/02cctv2/index.m3u8?v.channelid=1185&v.type=1&ips=51.79.98.142:19884
+CCTV 3 娱乐,http://45.88.151.66:9560/03cctv3/index.m3u8?v.channelid=1186&v.type=1&ips=51.79.98.142:19884
+CCTV 4 国际,http://45.88.151.66:9560/04cctv4/index.m3u8?v.channelid=1187&v.type=1&ips=51.79.98.142:19884
+CCTV 5 体育,http://45.88.151.66:9560/05cctv5/index.m3u8?v.channelid=1188&v.type=1&ips=51.79.98.142:19884
+CCTV 5+ 体育赛事,http://45.88.151.66:9560/16cctv5plus/index.m3u8?v.channelid=1189&v.type=1&ips=51.79.98.142:19884
+CCTV 6 电影,http://45.88.151.66:9560/06cctv6/index.m3u8?v.channelid=1190&v.type=1&ips=51.79.98.142:19884
+CCTV 7 军事,http://45.88.151.66:9560/07cctv7/index.m3u8?v.channelid=1191&v.type=1&ips=51.79.98.142:19884
+CCTV 8 连续剧,http://45.88.151.66:9560/08cctv8/index.m3u8?v.channelid=1192&v.type=1&ips=51.79.98.142:19884
+CCTV 9 纪录片,http://45.88.151.66:9560/09cctv9/index.m3u8?v.channelid=1193&v.type=1&ips=51.79.98.142:19884
+CCTV 10 科教,http://45.88.151.66:9560/10cctv10/index.m3u8?v.channelid=1194&v.type=1&ips=51.79.98.142:19884
+CCTV 11 戏曲,http://45.88.151.66:9560/11cctv11/index.m3u8?v.channelid=1195&v.type=1&ips=51.79.98.142:19884
+CCTV 12 社法,http://45.88.151.66:9560/12cctv12/index.m3u8?v.channelid=1196&v.type=1&ips=51.79.98.142:19884
+CCTV 13 新闻,http://45.88.151.66:9560/13cctv13/index.m3u8?v.channelid=1197&v.type=1&ips=51.79.98.142:19884
+CCTV 14 少儿,http://45.88.151.66:9560/14cctv14/index.m3u8?v.channelid=1198&v.type=1&ips=51.79.98.142:19884
+CCTV 15 音乐,http://45.88.151.66:9560/15cctv15/index.m3u8?v.channelid=1199&v.type=1&ips=51.79.98.142:19884
+CCTV 16 奥林匹克,http://127.0.0.1:9560/cctv16/index.m3u8?v.channelid=1878&v.type=1&ips=51.79.98.142:19884
+湖南卫视 HuNan,http://45.88.151.66:9560/19hunan/index.m3u8?v.channelid=1202&v.type=1&ips=51.79.98.142:19884
+浙江卫视 ZheJiang,http://45.88.151.66:9560/20zhejiang/index.m3u8?v.channelid=1203&v.type=1&ips=51.79.98.142:19884
+东方卫视 DragonTV,http://45.88.151.66:9560/18dongfang/index.m3u8?v.channelid=1201&v.type=1&ips=51.79.98.142:19884
+江苏卫视 JiangSu,http://45.88.151.66:9560/21jiangshu/index.m3u8?v.channelid=1204&v.type=1&ips=51.79.98.142:19884
+广东卫视 GuangDong,http://45.88.151.66:9560/22guangdong/index.m3u8?v.channelid=1205&v.type=1&ips=51.79.98.142:19884
+深圳卫视 ShenZhen,http://45.88.151.66:9560/23shenzhen/index.m3u8?v.channelid=1206&v.type=1&ips=51.79.98.142:19884
+北京卫视 Beijing,http://45.88.151.66:9560/17beijing/index.m3u8?v.channelid=1211&v.type=1&ips=51.79.98.142:19884
+安徽卫视 AnHui,http://45.88.151.66:9560/25anhui/index.m3u8?v.channelid=1208&v.type=1&ips=51.79.98.142:19884
+山东卫视 ShanDong,http://45.88.151.66:9560/26shandong/index.m3u8?v.channelid=1209&v.type=1&ips=51.79.98.142:19884
+辽宁卫视 LiaoNing,http://45.88.151.66:9560/27liaoning/index.m3u8?v.channelid=1210&v.type=1&ips=51.79.98.142:19884
+吉林卫视 JiLin,http://45.88.151.66:9560/28jilin/index.m3u8?v.channelid=1228&v.type=1&ips=51.79.98.142:19884
+黑龙江卫视 HeiLongJiang,http://127.0.0.1:9560/heilongjiang/index.m3u8?v.channelid=1229&v.type=1&ips=51.79.98.142:19884
+广东南方卫视 GD South,http://45.88.151.66:9560/24nanfang/index.m3u8?v.channelid=1207&v.type=1&ips=51.79.98.142:19884
+天津卫视 TianJing,http://45.88.151.66:9560/31tianjin/index.m3u8?v.channelid=1214&v.type=1&ips=51.79.98.142:19884
+湖北卫视 HuBei,http://45.88.151.66:9560/32hubei/index.m3u8?v.channelid=1215&v.type=1&ips=51.79.98.142:19884
+云南卫视 Yunnan,http://45.88.151.66:9560/33yunnan/index.m3u8?v.channelid=1216&v.type=1&ips=51.79.98.142:19884
+重庆卫视 ChongQing,http://45.88.151.66:9560/34chongqing/index.m3u8?v.channelid=1217&v.type=1&ips=51.79.98.142:19884
+河南卫视 HeNan,http://45.88.151.66:9560/35henan/index.m3u8?v.channelid=1218&v.type=1&ips=51.79.98.142:19884
+广西卫视 GuangXi,http://45.88.151.66:9560/36guangxi/index.m3u8?v.channelid=1219&v.type=1&ips=51.79.98.142:19884
+陕西卫视  ShanXi,http://45.88.151.66:9560/37shanxi/index.m3u8?v.channelid=1220&v.type=1&ips=51.79.98.142:19884
+四川卫视 SiChuan,http://45.88.151.66:9560/38sichuan/index.m3u8?v.channelid=1221&v.type=1&ips=51.79.98.142:19884
+山西卫视 ShanXi,http://45.88.151.66:9560/39shanxi/index.m3u8?v.channelid=1222&v.type=1&ips=51.79.98.142:19884
+河北卫视 HeBei,http://45.88.151.66:9560/40hebei/index.m3u8?v.channelid=1223&v.type=1&ips=51.79.98.142:19884
+福建东南卫视 FuJian,http://45.88.151.66:9560/30dongnan/index.m3u8?v.channelid=1213&v.type=1&ips=51.79.98.142:19884
+江西卫视 JiangXi,http://45.88.151.66:9560/29jiangxi/index.m3u8?v.channelid=1212&v.type=1&ips=51.79.98.142:19884
+贵州卫视 GuiZhou,http://45.88.151.66:9560/41guizhou/index.m3u8?v.channelid=1224&v.type=1&ips=51.79.98.142:19884
+青海卫视 QingHai,http://45.88.151.66:9560/42qinghai/index.m3u8?v.channelid=1225&v.type=1&ips=51.79.98.142:19884
+新疆卫视 XinJiang,http://45.88.151.66:9560/43xinjiang/index.m3u8?v.channelid=1226&v.type=1&ips=51.79.98.142:19884
+西藏卫视 XiZang,http://45.88.151.66:9560/44xizhang/index.m3u8?v.channelid=1227&v.type=1&ips=51.79.98.142:19884
+福建海峡卫视 FuJian HaiXia,http://127.0.0.1:9560/haixia/index.m3u8?v.channelid=1230&v.type=1&ips=51.79.98.142:19884
+厦门卫视 XiaMen,http://127.0.0.1:9560/xmws/index.m3u8?v.channelid=1241&v.type=1&ips=51.79.98.142:19884
+上海东方国际 DongFang GJ,http://45.88.151.66:9560/49dongfanggj/index.m3u8?v.channelid=1232&v.type=1&ips=51.79.98.142:19884
+湖南国际 HuNan GJ,http://45.88.151.66:9560/50hunangj/index.m3u8?v.channelid=1233&v.type=1&ips=51.79.98.142:19884
+浙江国际 ZheJiang GJ,http://45.88.151.66:9560/51zhejianggj/index.m3u8?v.channelid=1234&v.type=1&ips=51.79.98.142:19884
+江苏国际 JiangSu GJ,http://45.88.151.66:9560/52jiangsugj/index.m3u8?v.channelid=1235&v.type=1&ips=51.79.98.142:19884
+北京国际 Beijing GJ,http://45.88.151.66:9560/48beijinggj/index.m3u8?v.channelid=1231&v.type=1&ips=51.79.98.142:19884
+五星体育 Great Sports,http://127.0.0.1:9560/5starsp/index.m3u8?v.channelid=1249&v.type=1&ips=51.79.98.142:19884
+广东体育,http://127.0.0.1:9560/gdty/index.m3u8?v.channelid=1821&v.type=1&ips=38.58.181.230:19690
+CCTV 17 农业农村,http://127.0.0.1:9560/cctv17/index.m3u8?v.channelid=2235&v.type=1&ips=51.79.98.142:19884
+湖南金鹰卡通,http://127.0.0.1:9560/hunanjinying/index.m3u8?v.channelid=1250&v.type=1&ips=51.79.98.142:19884
+广东嘉佳卡通,http://127.0.0.1:9560/gdjiajia/index.m3u8?v.channelid=1251&v.type=1&ips=51.79.98.142:19884
+广东珠江,http://127.0.0.1:9560/gdzj/index.m3u8?v.channelid=1901&v.type=1&ips=51.79.98.142:19884
+海外中文,#genre#
+CCTV4 国际,http://127.0.0.1:9560/04cctv4/index.m3u8?v.channelid=1379&v.type=1&ips=51.79.98.142:19884
+CCTV4 美洲,http://127.0.0.1:9560/CCTV4na/index.m3u8?v.channelid=1380&v.type=1&ips=51.79.98.142:19884
+TVB 1 US,http://127.0.0.1:9560/TVB1US/index.m3u8?v.channelid=1382&v.type=1&ips=15.235.117.85:19970
+TVB Drama US,http://127.0.0.1:9560/TVBDramaUS/index.m3u8?v.channelid=1383&v.type=1&ips=15.235.117.85:19970
+TVB J1 US,http://127.0.0.1:9560/TVBJ1US/index.m3u8?v.channelid=1384&v.type=1&ips=15.235.117.85:19970
+TVB E US,http://127.0.0.1:9560/TVBEUS/index.m3u8?v.channelid=1386&v.type=1&ips=15.235.117.85:19970
+TVB News US,http://127.0.0.1:9560/TVBNEWS/index.m3u8?v.channelid=1387&v.type=1&ips=15.235.117.85:19970
+新时代多伦多,http://127.0.0.1:9560/xsde/index.m3u8?v.channelid=1388&v.type=1&ips=15.235.117.85:19970
+新时代温哥华,http://127.0.0.1:9560/xsdw/index.m3u8?v.channelid=1389&v.type=1&ips=15.235.117.85:19970
+新时代2,http://127.0.0.1:9560/xsd2/index.m3u8?v.channelid=1390&v.type=1&ips=15.235.117.85:19970
+凤凰美洲,http://127.0.0.1:9560/fhna/index.m3u8?v.channelid=1392&v.type=1&ips=51.79.98.142:19884
+加拿大600新闻,http://127.0.0.1:9560/600news/index.m3u8?v.channelid=1394&v.type=1&ips=51.79.98.142:19884
+东森美洲,http://45.88.151.66:9560/ettvna/index.m3u8?v.channelid=1397&v.type=1&ips=51.79.98.142:19884
+东森美东,http://45.88.151.66:9560/ettvnaeast/index.m3u8?v.channelid=1398&v.type=1&ips=51.79.98.142:19884
+东森超视,http://45.88.151.66:9560/ettvcaoshi/index.m3u8?v.channelid=1399&v.type=1&ips=51.79.98.142:19884
+华夏电视,http://45.88.151.66:9560/huaxiatv/index.m3u8?v.channelid=1402&v.type=1&ips=51.79.98.142:19884
+旧金山KTSF 26,http://127.0.0.1:9560/ktsf/index.m3u8?v.channelid=1404&v.type=1&ips=15.235.117.85:19970
+新唐人 ,http://45.88.151.66:9560/ntd/index.m3u8?v.channelid=1410&v.type=1&ips=51.79.98.142:19884
+謎米香港,http://127.0.0.1:9560/mimihk/index.m3u8?v.channelid=2212&v.type=1&ips=65.21.93.207:19595
+小岛浪吹,http://127.0.0.1:9560/xiaodaolangchui/index.m3u8?v.channelid=2213&v.type=1&ips=65.21.93.207:19595
+王剑-自媒体,http://127.0.0.1:9560/wangjian/index.m3u8?v.channelid=2214&v.type=1&ips=65.21.93.207:19595
+石头记-自媒体,http://127.0.0.1:9560/stone/index.m3u8?v.channelid=2215&v.type=1&ips=65.21.93.207:19595
+温相说党史-1,http://127.0.0.1:9560/wenxiang1/index.m3u8?v.channelid=2216&v.type=1&ips=65.21.93.207:19595
+温相说党史-2,http://127.0.0.1:9560/wenxiang2/index.m3u8?v.channelid=2217&v.type=1&ips=65.21.93.207:19595
+周孝正-自媒体,http://127.0.0.1:9560/zhouxiaozheng/index.m3u8?v.channelid=2218&v.type=1&ips=65.21.93.207:19595
+袁腾飞-自媒体,http://127.0.0.1:9560/yuansir/index.m3u8?v.channelid=2219&v.type=1&ips=65.21.93.207:19595
+说真话的徐某人-自媒体,http://127.0.0.1:9560/xumoren/index.m3u8?v.channelid=2220&v.type=1&ips=65.21.93.207:19595
+冷眼财经-自媒体,http://127.0.0.1:9560/coldeye/index.m3u8?v.channelid=2221&v.type=1&ips=65.21.93.207:19595
+南非华人首富-袁洪福-1,http://127.0.0.1:9560/yuanhf1/index.m3u8?v.channelid=2222&v.type=1&ips=65.21.93.207:19595
+南非华人首富-袁洪福-2,http://127.0.0.1:9560/yuanhf2/index.m3u8?v.channelid=2223&v.type=1&ips=65.21.93.207:19595
+美国洛杉矶-国际盲流子,http://127.0.0.1:9560/mlz2/index.m3u8?v.channelid=2224&v.type=1&ips=65.21.93.207:19595
+北京格斗狂人-徐晓冬-1,http://127.0.0.1:9560/xuxiaodong1/index.m3u8?v.channelid=2225&v.type=1&ips=65.21.93.207:19595
+北京格斗狂人-徐晓冬-2,http://127.0.0.1:9560/xuxiaodong2/index.m3u8?v.channelid=2226&v.type=1&ips=65.21.93.207:19595
+公民老黑-自媒体-1,http://127.0.0.1:9560/laohei1/index.m3u8?v.channelid=2227&v.type=1&ips=65.21.93.207:19595
+公民老黑-自媒体-2,http://127.0.0.1:9560/laohei2/index.m3u8?v.channelid=2228&v.type=1&ips=65.21.93.207:19595
+明镜电视-1,http://127.0.0.1:9560/mingjingtv1/index.m3u8?v.channelid=2229&v.type=1&ips=65.21.93.207:19595
+明镜电视-2,http://127.0.0.1:9560/mingjingtv2/index.m3u8?v.channelid=2230&v.type=1&ips=65.21.93.207:19595
+日本JP,#genre#
+東京NHK総合,http://104.149.128.134:9560/nhkg/index.m3u8?v.channelid=834&v.type=1&ips=15.235.117.85:32342
+東京NHK教育,http://104.149.128.134:9560/nhke/index.m3u8?v.channelid=835&v.type=1&ips=198.204.241.82:19590
+東京日本テレビ,http://104.149.128.134:9560/ntv/index.m3u8?v.channelid=836&v.type=1&ips=15.235.117.85:32342
+東京TBSテレビ,http://104.149.128.134:9560/tbs/index.m3u8?v.channelid=837&v.type=1&ips=15.235.117.85:32342
+東京フジテレビ,http://104.149.128.134:9560/fuji/index.m3u8?v.channelid=838&v.type=1&ips=198.204.241.82:19590
+東京テレビ朝日,http://104.149.128.134:9560/zhaori/index.m3u8?v.channelid=839&v.type=1&ips=15.235.117.85:32342
+テレビ東京,http://104.149.128.134:9560/tvtokyo/index.m3u8?v.channelid=840&v.type=1&ips=15.235.117.85:32342
+Tokyo MX,http://104.149.128.134:9560/tokyomx1/index.m3u8?v.channelid=939&v.type=1&ips=198.204.241.82:19590
+MBS毎日放送,http://104.149.128.134:9560/mbs/index.m3u8?v.channelid=941&v.type=1&ips=198.204.241.82:19590
+KBS京都,http://104.149.150.130:9560/KBSjigndu/index.m3u8?v.channelid=1643&v.type=1&ips=208.87.242.159:18590
+京都NHK総合,http://104.149.128.134:9560/nhkdaban/index.m3u8?v.channelid=1789&v.type=1&ips=198.204.241.82:19590
+大阪NHK Eテレ,http://104.149.128.134:9560/nhkedaban/index.m3u8?v.channelid=1790&v.type=1&ips=198.204.241.82:19590
+ABCテレビ,http://104.149.128.134:9560/abc/index.m3u8?v.channelid=942&v.type=1&ips=198.204.241.82:19590
+テレビ大阪,http://104.149.128.134:9560/dbtv/index.m3u8?v.channelid=943&v.type=1&ips=198.204.241.82:19590
+関西テレビ,http://104.149.128.134:9560/guanxi/index.m3u8?v.channelid=944&v.type=1&ips=198.204.241.82:19590
+読売テレビ,http://104.149.128.134:9560/dumai/index.m3u8?v.channelid=945&v.type=1&ips=198.204.241.82:19590
+Tokyo MX 2,http://104.149.150.130:9560/TokyoMX2/index.m3u8?v.channelid=1642&v.type=1&ips=208.87.242.159:18590
+BS101-NHK BS1,http://104.149.128.134:9560/bs1/index.m3u8?v.channelid=841&v.type=1&ips=198.204.241.82:19590
+BS103-NHK BSプレミアム,http://104.149.128.134:9560/bs103/index.m3u8?v.channelid=946&v.type=1&ips=198.204.241.82:19590
+BS141 BS日テレ,http://104.149.128.134:9560/bsntv/index.m3u8?v.channelid=1791&v.type=1&ips=198.204.241.82:19590
+BS151 BS朝日,http://104.149.150.130:9560/BSzr/index.m3u8?v.channelid=1644&v.type=1&ips=208.87.242.159:18590
+BS161 BS-TBS,http://104.149.150.130:9560/BSTBS/index.m3u8?v.channelid=1645&v.type=1&ips=208.87.242.159:18590
+BS171 BSテレ東京,http://104.149.128.134:9560/bsjp/index.m3u8?v.channelid=947&v.type=1&ips=198.204.241.82:19590
+BS181-BSフジ,http://104.149.128.134:9560/bsfuji/index.m3u8?v.channelid=948&v.type=1&ips=198.204.241.82:19590
+BS191 WOWOWプライム,http://104.149.128.134:9560/wowo1/index.m3u8?v.channelid=949&v.type=1&ips=198.204.241.82:19590
+BS192 WOWOWライブ,http://104.149.128.134:9560/wowo2/index.m3u8?v.channelid=950&v.type=1&ips=198.204.241.82:19590
+BS193 WOWOWシネマ,http://104.149.128.134:9560/wowo3/index.m3u8?v.channelid=951&v.type=1&ips=198.204.241.82:19590
+BS200 スターチャンネル1,http://104.149.128.134:9560/star1/index.m3u8?v.channelid=952&v.type=1&ips=198.204.241.82:19590
+BS201 スターチャンネル2,http://104.149.128.134:9560/star2/index.m3u8?v.channelid=953&v.type=1&ips=198.204.241.82:19590
+BS211 BS11,http://104.149.150.130:9560/BS11/index.m3u8?v.channelid=1646&v.type=1&ips=208.87.242.159:18590
+BS222 BS12,http://104.149.150.130:9560/BS12/index.m3u8?v.channelid=1647&v.type=1&ips=208.87.242.159:18590
+BS234 グリーンチャンネル,http://104.149.128.134:9560/green/index.m3u8?v.channelid=955&v.type=1&ips=198.204.241.82:19590
+BS236 アニマックス,http://104.149.128.134:9560/animax/index.m3u8?v.channelid=956&v.type=1&ips=198.204.241.82:19590
+BS242 J SPORTS 1,http://104.149.128.134:9560/jsport1/index.m3u8?v.channelid=957&v.type=1&ips=198.204.241.82:19590
+BS243 J SPORTS 2,http://104.149.128.134:9560/jsport2/index.m3u8?v.channelid=958&v.type=1&ips=198.204.241.82:19590
+BS244 J SPORTS 3,http://104.149.128.134:9560/jsport3/index.m3u8?v.channelid=959&v.type=1&ips=198.204.241.82:19590
+BS245 J SPORTS 4,http://104.149.128.134:9560/jsport4/index.m3u8?v.channelid=960&v.type=1&ips=198.204.241.82:19590
+BS251 釣りビジョン,http://104.149.128.134:9560/fish/index.m3u8?v.channelid=964&v.type=1&ips=198.204.241.82:19590
+BS252 シネフィルWOWOW,http://104.149.128.134:9560/bswow/index.m3u8?v.channelid=961&v.type=1&ips=198.204.241.82:19590
+BS255 日本映画専門,http://104.149.128.134:9560/bsmov/index.m3u8?v.channelid=962&v.type=1&ips=198.204.241.82:19590
+BS256 ディズニーチャンネル,http://104.149.128.134:9560/disney/index.m3u8?v.channelid=963&v.type=1&ips=198.204.241.82:19590
+CS218 東映チャンネル,http://104.149.128.134:9560/dongying/index.m3u8?v.channelid=969&v.type=1&ips=198.204.241.82:19590
+CS219 衛星劇場,http://104.149.128.134:9560/wxjc/index.m3u8?v.channelid=976&v.type=1&ips=198.204.241.82:19590
+CS223 映画NECO,http://104.149.128.134:9560/neco/index.m3u8?v.channelid=973&v.type=1&ips=198.204.241.82:19590
+CS227 ザ・シネマ,http://104.149.150.130:9560/thecinema/index.m3u8?v.channelid=1650&v.type=1&ips=208.87.242.159:18590
+CS240 ムービープラス,http://104.149.128.134:9560/movieplus/index.m3u8?v.channelid=975&v.type=1&ips=198.204.241.82:19590
+CS250  スカイA,http://104.149.128.134:9560/aplus/index.m3u8?v.channelid=965&v.type=1&ips=198.204.241.82:19590
+CS254 Gaora Sports,http://104.149.128.134:9560/gaora/index.m3u8?v.channelid=974&v.type=1&ips=198.204.241.82:19590
+CS262 ゴルフネット,http://104.149.128.134:9560/golf/index.m3u8?v.channelid=968&v.type=1&ips=198.204.241.82:19590
+CS290 宝塚歌劇専門チャンネル,http://104.149.150.130:9560/TAKA/index.m3u8?v.channelid=1652&v.type=1&ips=208.87.242.159:18590
+CS292 時代劇専門,http://104.149.128.134:9560/timejc/index.m3u8?v.channelid=970&v.type=1&ips=198.204.241.82:19590
+CS293 ファミリー劇場,http://104.149.128.134:9560/juchang293/index.m3u8?v.channelid=971&v.type=1&ips=198.204.241.82:19590
+CS295 MONDO TV トップ,http://104.149.150.130:9560/MONDOTV/index.m3u8?v.channelid=1654&v.type=1&ips=208.87.242.159:18590
+CS296 TBSチャンネル1,http://104.149.150.130:9560/TBS1/index.m3u8?v.channelid=1655&v.type=1&ips=208.87.242.159:18590
+CS297 TBSチャンネル2,http://104.149.150.130:9560/TBS2/index.m3u8?v.channelid=1656&v.type=1&ips=208.87.242.159:18590
+CS298 テレ朝チャンネル1,http://104.149.150.130:9560/914ch/index.m3u8?v.channelid=1657&v.type=1&ips=208.87.242.159:18590
+CS299 テレ朝チャンネル2,http://104.149.150.130:9560/ch557/index.m3u8?v.channelid=1658&v.type=1&ips=208.87.242.159:18590
+CS300 日テレプラス,http://104.149.150.130:9560/618ch/index.m3u8?v.channelid=1651&v.type=1&ips=208.87.242.159:18590
+CS305 チャンネル銀河,http://104.149.128.134:9560/yinhe/index.m3u8?v.channelid=972&v.type=1&ips=198.204.241.82:19590
+CS307 フジテレビOne,http://104.149.150.130:9560/ONE/index.m3u8?v.channelid=1659&v.type=1&ips=208.87.242.159:18590
+CS308 フジテレビTwo,http://104.149.150.130:9560/TWO/index.m3u8?v.channelid=1660&v.type=1&ips=208.87.242.159:18590
+CS309 フジテレビNext,http://104.149.150.130:9560/NEXT/index.m3u8?v.channelid=1661&v.type=1&ips=208.87.242.159:18590
+CS310 スーパー！ドラマ,http://104.149.150.130:9560/dramatv/index.m3u8?v.channelid=1662&v.type=1&ips=208.87.242.159:18590
+CS312 FOX,http://104.149.150.130:9560/FOXJP/index.m3u8?v.channelid=1665&v.type=1&ips=208.87.242.159:18590
+CS314 女性チャンネル,http://104.149.150.130:9560/LaLaTV/index.m3u8?v.channelid=1666&v.type=1&ips=208.87.242.159:18590
+CS321 100％ヒッツ！スペースシャワーTV プラス,http://104.149.150.130:9560/ch651/index.m3u8?v.channelid=1667&v.type=1&ips=208.87.242.159:18590
+CS322 スペースシャワーTV,http://104.149.150.130:9560/SPACESHOWER/index.m3u8?v.channelid=1668&v.type=1&ips=208.87.242.159:18590
+CS323 MTV,http://104.149.150.130:9560/MTVJP/index.m3u8?v.channelid=1669&v.type=1&ips=208.87.242.159:18590
+CS324 ミュージック・エア,http://104.149.150.130:9560/MUSICAIR/index.m3u8?v.channelid=1671&v.type=1&ips=208.87.242.159:18590
+CS325 MUSIC ON! TV,http://104.149.150.130:9560/MUSICON/index.m3u8?v.channelid=1670&v.type=1&ips=208.87.242.159:18590
+CS326 歌謡ポップスチャンネル,http://104.149.150.130:9560/cs319/index.m3u8?v.channelid=1672&v.type=1&ips=208.87.242.159:18590
+CS330 キッズステーション,http://104.149.150.130:9560/KidsStation/index.m3u8?v.channelid=1673&v.type=1&ips=208.87.242.159:18590
+CS330 カートゥーン ネットワーク,http://104.149.150.130:9560/CartoonNetworkJP/index.m3u8?v.channelid=1674&v.type=1&ips=208.87.242.159:18590
+CS333 AT−X,http://104.149.128.134:9560/atx/index.m3u8?v.channelid=966&v.type=1&ips=198.204.241.82:19590
+CS339 ディズニージュニア,http://104.149.150.130:9560/DisneyJuniorJP/index.m3u8?v.channelid=1675&v.type=1&ips=208.87.242.159:18590
+CS340 ディスカバリーチャンネル,http://104.149.150.130:9560/DiscoveryJP/index.m3u8?v.channelid=1676&v.type=1&ips=208.87.242.159:18590
+CS341 アニマルプラネット,http://104.149.150.130:9560/AnimalPlanetJP/index.m3u8?v.channelid=1677&v.type=1&ips=208.87.242.159:18590
+CS342 ヒストリーチャンネル,http://104.149.150.130:9560/HistoryJP/index.m3u8?v.channelid=1678&v.type=1&ips=208.87.242.159:18590
+CS343 ナショナル ジオグラフィック,http://104.149.150.130:9560/NationalGeographicJP/index.m3u8?v.channelid=1679&v.type=1&ips=208.87.242.159:18590
+CS349 日テレNEWS24,http://104.149.150.130:9560/NTVNews24/index.m3u8?v.channelid=1680&v.type=1&ips=208.87.242.159:18590
+CS351 TBSニュースバード,http://104.149.150.130:9560/TBSNEWS/index.m3u8?v.channelid=1681&v.type=1&ips=208.87.242.159:18590
+CS353 BBCワールドニュース,http://104.149.150.130:9560/BBCWorldNewsJP/index.m3u8?v.channelid=1682&v.type=1&ips=208.87.242.159:18590
+CS351 囲碁 将棋チャンネル,http://104.149.150.130:9560/ch521/index.m3u8?v.channelid=1684&v.type=1&ips=208.87.242.159:18590
+CS362 旅チャンネル,http://104.149.150.130:9560/ch544/index.m3u8?v.channelid=1686&v.type=1&ips=208.87.242.159:18590
+CS546 鉄道チャンネル,http://104.149.150.130:9560/railway/index.m3u8?v.channelid=1687&v.type=1&ips=208.87.242.159:18590
+CS259 FIGHTING TV サムライ,http://104.149.150.130:9560/FIGHTINGTV/index.m3u8?v.channelid=1688&v.type=1&ips=208.87.242.159:18590
+CS321 ミュージック・ジャパンTV,http://104.149.150.130:9560/ch639/index.m3u8?v.channelid=1689&v.type=1&ips=208.87.242.159:18590
+CS294 ホームドラマチャンネル,http://104.149.150.130:9560/cs294/index.m3u8?v.channelid=1653&v.type=1&ips=208.87.242.159:18590
+CS311 AXN海外ドラマ,http://104.149.150.130:9560/AXNJP/index.m3u8?v.channelid=1663&v.type=1&ips=208.87.242.159:18590
+CS316 AXNミステリー,http://104.149.150.130:9560/MysteryChannel/index.m3u8?v.channelid=1664&v.type=1&ips=208.87.242.159:18590
+CS566 CNNj,http://104.149.150.130:9560/CNNJP/index.m3u8?v.channelid=1683&v.type=1&ips=208.87.242.159:18590
+CS800 スポーツライブ＋,http://104.149.150.130:9560/ch753/index.m3u8?v.channelid=1685&v.type=1&ips=208.87.242.159:18590
+韩国KR,#genre#
+KBS1 HD,http://127.0.0.1:9560/kbs1/index.m3u8?v.channelid=1426&v.type=1&ips=38.46.221.243:9590
+KBS2 HD,http://127.0.0.1:9560/KBS2/index.m3u8?v.channelid=1427&v.type=1&ips=38.246.112.215:9590
+SBS HD,http://127.0.0.1:9560/sbs/index.m3u8?v.channelid=1480&v.type=1&ips=38.75.136.226:18344
+MBC HD,http://127.0.0.1:9560/mbc/index.m3u8?v.channelid=2272&v.type=1&ips=38.75.136.226:18344
+KBS1,http://127.0.0.1:9560/kbs1/index.m3u8?v.channelid=2246&v.type=1&ips=38.75.136.226:18344
+KBS2,http://127.0.0.1:9560/kbs2/index.m3u8?v.channelid=2247&v.type=1&ips=38.75.136.226:18344
+SBS,http://127.0.0.1:9560/SBS/index.m3u8?v.channelid=1429&v.type=1&ips=192.99.34.62:19591
+MBC,http://127.0.0.1:9560/MBC/index.m3u8?v.channelid=1428&v.type=1&ips=192.99.34.62:19591
+TVN,http://127.0.0.1:9560/tvN/index.m3u8?v.channelid=1451&v.type=1&ips=192.99.34.62:19591
+JTBC,http://127.0.0.1:9560/JTBC/index.m3u8?v.channelid=1432&v.type=1&ips=192.99.34.62:19591
+MBN,http://95.216.70.97:9560/MBN/index.m3u8?v.channelid=1436&v.type=1&ips=198.204.228.186:19590
+Channel A,http://95.216.70.97:9560/ChannelA/index.m3u8?v.channelid=1440&v.type=1&ips=38.46.221.153:9590
+TV Chosun,http://95.216.70.97:9560/TVChosun/index.m3u8?v.channelid=1437&v.type=1&ips=38.58.181.230:9592
+YTN,http://95.216.70.97:9560/YTN/index.m3u8?v.channelid=1434&v.type=1&ips=192.99.34.62:19591
+Joint News TV,http://95.216.70.97:9560/YonhapNewsTV/index.m3u8?v.channelid=1438&v.type=1&ips=192.99.34.62:19591
+SBS BIZ,http://95.216.70.97:9560/SBSBIZ/index.m3u8?v.channelid=1431&v.type=1&ips=38.58.181.230:9592
+EBS 1,http://95.216.70.97:9560/EBS1/index.m3u8?v.channelid=1430&v.type=1&ips=38.46.221.243:9590
+KBS Drama,http://127.0.0.1:9560/KBSNDrama/index.m3u8?v.channelid=1485&v.type=1&ips=198.204.228.186:19590
+MBC Drama,http://127.0.0.1:9560/mbcdrama/index.m3u8?v.channelid=2244&v.type=1&ips=198.204.228.186:19590
+SBS Plus,http://127.0.0.1:9560/sbsplus/index.m3u8?v.channelid=2279&v.type=1&ips=38.58.181.230:9592
+MBC On,http://95.216.70.97:9560/TBS/index.m3u8?v.channelid=1433&v.type=1&ips=192.99.34.62:19591
+CNTV,http://95.216.70.97:9560/CNTV/index.m3u8?v.channelid=1460&v.type=1&ips=38.46.221.243:9590
+OCN,http://95.216.70.97:9560/OCN/index.m3u8?v.channelid=1441&v.type=1&ips=198.204.228.186:19590
+OCN Movies,http://95.216.70.97:9560/OCNMovies/index.m3u8?v.channelid=1442&v.type=1&ips=198.204.228.186:19590
+OCN Movies 2,http://95.216.70.97:9560/OCNMovies2/index.m3u8?v.channelid=1439&v.type=1&ips=192.99.34.62:19591
+SCREEN,http://95.216.70.97:9560/SCREEN/index.m3u8?v.channelid=1446&v.type=1&ips=38.58.181.230:9592
+MBC Sports,http://95.216.70.97:9560/MBCSports/index.m3u8?v.channelid=1467&v.type=1&ips=198.204.228.186:19590
+SBS Sports,http://95.216.70.97:9560/SBSSports/index.m3u8?v.channelid=1468&v.type=1&ips=38.58.181.230:9592
+KBS N Sports,http://95.216.70.97:9560/KBSNSports/index.m3u8?v.channelid=1472&v.type=1&ips=198.204.228.186:19590
+SKY Sports,http://95.216.70.97:9560/SKYSports/index.m3u8?v.channelid=1473&v.type=1&ips=192.99.34.62:19591
+TvN Sports,http://95.216.70.97:9560/TvNSports/index.m3u8?v.channelid=1478&v.type=1&ips=192.99.34.62:19591
+SPOTV ON 1,http://95.216.70.97:9560/SPOTVON1/index.m3u8?v.channelid=1461&v.type=1&ips=192.99.34.62:19591
+SPOTV ON 2,http://95.216.70.97:9560/SPOTVON2/index.m3u8?v.channelid=1462&v.type=1&ips=192.99.34.62:19591
+SPOTV 1,http://95.216.70.97:9560/SPOTV1/index.m3u8?v.channelid=1469&v.type=1&ips=192.99.34.62:19591
+SPOTV 2,http://95.216.70.97:9560/SPOTV2/index.m3u8?v.channelid=1470&v.type=1&ips=192.99.34.62:19591
+SPOTV Prime,http://95.216.70.97:9560/SPOTVPrime/index.m3u8?v.channelid=1471&v.type=1&ips=192.99.34.62:19591
+SBS Golf,http://95.216.70.97:9560/SBSGolf/index.m3u8?v.channelid=1464&v.type=1&ips=38.58.181.230:9592
+SBS Gofl 2,http://95.216.70.97:9560/sbsgolf2/index.m3u8?v.channelid=1477&v.type=1&ips=38.46.221.243:9590
+JTBC Golf,http://95.216.70.97:9560/JTBCGolf/index.m3u8?v.channelid=1465&v.type=1&ips=38.46.221.243:9590
+JTBC Golf & Sports,http://95.216.70.97:9560/JTBCGOLFSPORTS/index.m3u8?v.channelid=1466&v.type=1&ips=38.46.221.243:9590
+FTV,http://95.216.70.97:9560/FTV/index.m3u8?v.channelid=1475&v.type=1&ips=38.46.221.243:9590
+TV Baduk,http://95.216.70.97:9560/TVBaduk/index.m3u8?v.channelid=1476&v.type=1&ips=192.99.34.62:19591
+브레인티비 BrainTV,http://127.0.0.1:9560/Braintv/index.m3u8?v.channelid=2245&v.type=1&ips=38.46.221.153:9590
+TV Chosun 2,http://127.0.0.1:9560/TVChosun2/index.m3u8?v.channelid=1449&v.type=1&ips=38.58.181.230:9592
+KBS Joy,http://95.216.70.97:9560/KBSNJoy/index.m3u8?v.channelid=1486&v.type=1&ips=198.204.228.186:19590
+Inet TV,http://95.216.70.97:9560/InetTV/index.m3u8?v.channelid=1454&v.type=1&ips=38.46.221.243:9590
+Mnet,http://95.216.70.97:9560/Mnet/index.m3u8?v.channelid=1450&v.type=1&ips=198.204.228.186:19590
+tvN Show,http://95.216.70.97:9560/tvNShow/index.m3u8?v.channelid=1452&v.type=1&ips=192.99.34.62:19591
+Toon!verse(투니버스),http://95.216.70.97:9560/Tooniverse/index.m3u8?v.channelid=1455&v.type=1&ips=192.99.34.62:19591
+Daekyo Kids 대교 어린이,http://95.216.70.97:9560/DaekyoKids/index.m3u8?v.channelid=1456&v.type=1&ips=38.46.221.243:9590
+Kids Talk Talk,http://95.216.70.97:9560/KidsTalkTalk/index.m3u8?v.channelid=1457&v.type=1&ips=198.204.228.186:19590
+KBS Kids,http://95.216.70.97:9560/KBSNKids/index.m3u8?v.channelid=1487&v.type=1&ips=198.204.228.186:19590
+History,http://95.216.70.97:9560/YTNHD/index.m3u8?v.channelid=1435&v.type=1&ips=192.99.34.62:19591
+Discovery World,http://95.216.70.97:9560/DiscoveryWorld/index.m3u8?v.channelid=1482&v.type=1&ips=38.46.221.243:9590
+KBS 1,http://127.0.0.1:9560/KBS1/index.m3u8?v.channelid=2270&v.type=1&ips=38.246.112.215:9590
+KBS 2,http://127.0.0.1:9560/kbs2/index.m3u8?v.channelid=2271&v.type=1&ips=38.46.221.243:9590
+TvN,http://127.0.0.1:9560/tvn/index.m3u8?v.channelid=2273&v.type=1&ips=65.21.93.207:19595
+JTBC,http://127.0.0.1:9560/jtbc/index.m3u8?v.channelid=2274&v.type=1&ips=65.21.93.207:19595
+MBN,http://127.0.0.1:9560/mbn/index.m3u8?v.channelid=2275&v.type=1&ips=65.21.93.207:19595
+Channle A,http://127.0.0.1:9560/channela/index.m3u8?v.channelid=2276&v.type=1&ips=65.21.93.207:19595
+TV Chosun,http://127.0.0.1:9560/cho1/index.m3u8?v.channelid=2280&v.type=1&ips=38.46.221.153:9590
+TV Chosun 2,http://127.0.0.1:9560/cho2/index.m3u8?v.channelid=2281&v.type=1&ips=38.46.221.153:9590
+新马M&S,#genre#
+AEC,http://64.74.167.146:19560/AEC/index.m3u8?v.channelid=1411&v.type=1&ips=144.217.67.200:19591
+全佳,http://64.74.167.146:9560/quanjia/index.m3u8?v.channelid=1412&v.type=1&ips=144.217.67.200:19591
+欢喜,http://64.74.167.146:9560/huanxi/index.m3u8?v.channelid=1414&v.type=1&ips=144.217.67.200:19591
+爱奇艺,http://64.74.167.146:9560/iqiyi/index.m3u8?v.channelid=1415&v.type=1&ips=144.217.67.200:19591
+华丽,http://64.74.167.146:9560/tvbjade/index.m3u8?v.channelid=1416&v.type=1&ips=144.217.67.200:19591
+AOD(粤),http://64.74.167.146:9560/AODHK/index.m3u8?v.channelid=1417&v.type=1&ips=144.217.67.200:19591
+AOD(国),http://64.74.167.146:9560/AODCN/index.m3u8?v.channelid=1418&v.type=1&ips=144.217.67.200:19591
+TVB千禧经典,http://64.74.167.146:9560/TVBClassic/index.m3u8?v.channelid=1420&v.type=1&ips=144.217.67.200:19591
+天映频道(粤),http://64.74.167.146:9560/tianyingyue/index.m3u8?v.channelid=1421&v.type=1&ips=144.217.67.200:19591
+天映频道(国),http://64.74.167.146:9560/tianyingguo/index.m3u8?v.channelid=1422&v.type=1&ips=144.217.67.200:19591
+天映經典,http://64.74.167.146:9560/tianyingjdguo/index.m3u8?v.channelid=1424&v.type=1&ips=144.217.67.200:19591
+Channel 5 (SG),http://64.74.167.146:9560/Channel5/index.m3u8?v.channelid=1792&v.type=1&ips=144.217.67.200:19591
+Channel 8 (SG),http://64.74.167.146:9560/Channel8/index.m3u8?v.channelid=1793&v.type=1&ips=144.217.67.200:19591
+Channel U (SG),http://64.74.167.146:9560/ChannelU/index.m3u8?v.channelid=1794&v.type=1&ips=144.217.67.200:19591
+CNA (SG),http://64.74.167.146:9560/CAN/index.m3u8?v.channelid=1795&v.type=1&ips=144.217.67.200:19591
+Astro SupersSport 1,http://64.74.167.146:9560/SupersSport1/index.m3u8?v.channelid=1809&v.type=1&ips=144.217.67.200:19591
+Astro SupersSport 2,http://64.74.167.146:9560/SupersSport2/index.m3u8?v.channelid=1810&v.type=1&ips=144.217.67.200:19591
+Astro SupersSport 3,http://64.74.167.146:9560/SupersSport3/index.m3u8?v.channelid=1811&v.type=1&ips=144.217.67.200:19591
+Astro SupersSport 4,http://64.74.167.146:9560/SupersSport4/index.m3u8?v.channelid=1812&v.type=1&ips=144.217.67.200:19591
+Astro SupersSport 5,http://64.74.167.146:9560/SupersSport5/index.m3u8?v.channelid=1813&v.type=1&ips=144.217.67.200:19591
+Astro Arena ,http://64.74.167.146:9560/Arena/index.m3u8?v.channelid=1814&v.type=1&ips=144.217.67.200:19591
+Astro Arena 2,http://64.74.167.146:9560/Arena2/index.m3u8?v.channelid=1815&v.type=1&ips=144.217.67.200:19591
+国际EN,#genre#
+CNN US,http://51.161.116.93:9560/CNN/index.m3u8?v.channelid=1490&v.type=1&ips=148.113.176.47:19698
+CNN International,http://51.161.87.108:9560/02cnni/index.m3u8?v.channelid=1491&v.type=1&ips=51.79.72.168:29593
+Fox News,http://51.161.87.108:9560/03foxnews/index.m3u8?v.channelid=1492&v.type=1&ips=51.79.72.168:29593
+MSNBC,http://51.161.87.108:9560/04msnbc/index.m3u8?v.channelid=1493&v.type=1&ips=51.79.72.168:29593
+Newsmax TV,http://51.161.87.108:9560/05newsmax/index.m3u8?v.channelid=1494&v.type=1&ips=51.79.72.168:29593
+One American News,http://51.161.87.108:9560/06oan/index.m3u8?v.channelid=1495&v.type=1&ips=51.79.72.168:29593
+BBC World News,http://51.161.87.108:9560/07bbc/index.m3u8?v.channelid=1496&v.type=1&ips=51.79.72.168:29593
+Russia Today,http://51.161.87.108:9560/09rt/index.m3u8?v.channelid=1497&v.type=1&ips=51.79.72.168:29593
+Aljazeera English News,http://51.161.87.108:9560/10alje/index.m3u8?v.channelid=1498&v.type=1&ips=51.79.72.168:29593
+Sky News,http://192.99.160.142:9560/skynews/index.m3u8?v.channelid=1499&v.type=1&ips=142.4.216.151:39598
+France 24 En,http://192.99.160.142:9560/f24en/index.m3u8?v.channelid=1500&v.type=1&ips=142.4.216.151:39598
+DW TV,http://127.0.0.1:9560/dw/index.m3u8?v.channelid=1501&v.type=1&ips=142.4.216.151:39598
+ABC News,http://51.161.87.108:9560/11abcnews/index.m3u8?v.channelid=1502&v.type=1&ips=51.79.72.168:29593
+CBS News,http://51.161.116.93:9560/CBSN/index.m3u8?v.channelid=1503&v.type=1&ips=148.113.176.47:19698
+NBC Now News,http://51.161.116.93:9560/NBCNowNews/index.m3u8?v.channelid=1504&v.type=1&ips=148.113.176.47:19698
+CNBC,http://51.161.87.108:9560/22CNBC/index.m3u8?v.channelid=1505&v.type=1&ips=51.79.72.168:29593
+Bloomberg,http://51.161.116.93:9560/Bloomberg/index.m3u8?v.channelid=1506&v.type=1&ips=148.113.176.47:19698
+ESPN 1 US,http://104.149.150.86:9560/ESPN/index.m3u8?v.channelid=1507&v.type=1&ips=66.70.176.222:9598
+ESPN 2 US,http://104.149.150.86:9560/ESPN2/index.m3u8?v.channelid=1508&v.type=1&ips=66.70.176.222:9598
+Fox Sports 1 US,http://104.149.150.86:9560/FoxSports1/index.m3u8?v.channelid=1509&v.type=1&ips=66.70.176.222:9598
+Fox Sports 2 US,http://104.149.150.86:9560/FoxSports2/index.m3u8?v.channelid=1510&v.type=1&ips=66.70.176.222:9598
+NBA TV US,http://104.149.150.86:9560/NBATV/index.m3u8?v.channelid=1511&v.type=1&ips=66.70.176.222:9598
+Bein Sports US,http://51.161.87.108:9560/beinus/index.m3u8?v.channelid=1512&v.type=1&ips=51.79.72.168:29593
+NFL Network,http://54.36.164.165:9560/NFLNetwork/index.m3u8?v.channelid=1513&v.type=1&ips=51.79.78.8:9590
+Boxing PPV,http://176.9.89.50:9560/ppvbox/index.m3u8?v.channelid=1514&v.type=1&ips=66.70.176.222:9598
+UFC Pass,http://51.161.116.93:9560/UFCPass/index.m3u8?v.channelid=1515&v.type=1&ips=148.113.176.47:19698
+Sky Sports Main Event UK,http://127.0.0.1:9560/22MainEvent/index.m3u8?v.channelid=1516&v.type=1&ips=173.208.202.114:49693
+Sky Sports Cricket UK,http://127.0.0.1:9560/23Cricket/index.m3u8?v.channelid=1517&v.type=1&ips=173.208.202.114:49693
+Sky Sports Action UK,http://127.0.0.1:9560/24spaction/index.m3u8?v.channelid=1518&v.type=1&ips=173.208.202.114:49693
+Sky Sports Golf UK,http://127.0.0.1:9560/25Golf/index.m3u8?v.channelid=1519&v.type=1&ips=173.208.202.114:49693
+Sky Sports Premier League UK,http://127.0.0.1:9560/26PremierLeague/index.m3u8?v.channelid=1520&v.type=1&ips=173.208.202.114:49693
+Sky Sports F1 UK,http://127.0.0.1:9560/27SpF1/index.m3u8?v.channelid=1521&v.type=1&ips=173.208.202.114:49693
+BT Sports 1 UK,http://5.9.29.158:9560/bt1/index.m3u8?v.channelid=1522&v.type=1&ips=173.208.202.114:49693
+BT Sports 2 UK,http://5.9.29.158:9560/bt2/index.m3u8?v.channelid=1523&v.type=1&ips=173.208.202.114:49693
+BT Sports 3 UK,http://5.9.29.158:9560/bt3/index.m3u8?v.channelid=1524&v.type=1&ips=173.208.202.114:49693
+TSN 1 CA,http://192.99.160.142:9560/TSN1/index.m3u8?v.channelid=1525&v.type=1&ips=51.79.78.8:9590
+TSN 2 CA,http://192.99.160.142:9560/TSN2/index.m3u8?v.channelid=1526&v.type=1&ips=51.79.78.8:9590
+TSN 3 CA,http://192.99.160.142:9560/TSN3/index.m3u8?v.channelid=1527&v.type=1&ips=51.79.78.8:9590
+TSN 4 CA,http://192.99.160.142:9560/TSN4/index.m3u8?v.channelid=1528&v.type=1&ips=51.79.78.8:9590
+TSN 5 CA,http://192.99.160.142:9560/TSN5/index.m3u8?v.channelid=1529&v.type=1&ips=51.79.78.8:9590
+Sportsnet Ontario,http://192.99.160.142:9560/Sportsnet/index.m3u8?v.channelid=1530&v.type=1&ips=51.79.78.8:9590
+Sportsnet One,http://192.99.160.142:9560/Sportsnet1/index.m3u8?v.channelid=1531&v.type=1&ips=51.79.78.8:9590
+Sportsnet 360,http://192.99.160.142:9560/Sportsnet360/index.m3u8?v.channelid=1532&v.type=1&ips=51.79.78.8:9590
+Sportsnet World,http://54.36.164.165:9560/spnetwl/index.m3u8?v.channelid=1533&v.type=1&ips=51.79.78.8:9590
+NBA CA,http://54.36.164.165:9560/NBA/index.m3u8?v.channelid=1534&v.type=1&ips=51.79.78.8:9590
+Disney US,http://104.149.150.86:9560/Disney/index.m3u8?v.channelid=1550&v.type=1&ips=66.70.176.222:9598
+Disney XD US,http://104.149.150.86:9560/DisneyXD/index.m3u8?v.channelid=1551&v.type=1&ips=66.70.176.222:9598
+Disney Junior US,http://104.149.150.86:9560/DisneyJunior/index.m3u8?v.channelid=1552&v.type=1&ips=66.70.176.222:9598
+Cartoon Network US,http://127.0.0.1:9560/CartoonNetwork/index.m3u8?v.channelid=1553&v.type=1&ips=66.70.176.222:9598
+Nickelodeon US,http://51.161.87.108:9560/nick/index.m3u8?v.channelid=1554&v.type=1&ips=51.79.72.168:29593
+Nick Junior US,http://51.161.116.93:9560/NickJunior/index.m3u8?v.channelid=1555&v.type=1&ips=148.113.176.47:19698
+Treehouse CA,http://192.99.160.142:9560/Treehouse/index.m3u8?v.channelid=1556&v.type=1&ips=51.79.78.8:9590
+Nickelodeon CA,http://127.0.0.1:9560/nick/index.m3u8?v.channelid=1557&v.type=1&ips=51.79.78.8:9590
+ABC Spark CA,http://54.36.164.165:9560/ABCSpark/index.m3u8?v.channelid=1558&v.type=1&ips=51.79.78.8:9590
+Teletoon CA,http://192.99.160.142:9560/Teletoon/index.m3u8?v.channelid=1559&v.type=1&ips=51.79.78.8:9590
+YTV CA,http://192.99.160.142:9560/YTV/index.m3u8?v.channelid=1560&v.type=1&ips=51.79.78.8:9590
+Family CA,http://54.36.164.165:9560/FamilyChannel/index.m3u8?v.channelid=1561&v.type=1&ips=51.79.78.8:9590
+Baby TV US,http://51.161.116.93:9560/BabyTV/index.m3u8?v.channelid=1562&v.type=1&ips=148.113.176.47:19698
+Cartoon Network UK,http://104.149.150.130:9560/cartoonuk/index.m3u8?v.channelid=1563&v.type=1&ips=173.208.202.114:49693
+NickToon,http://104.149.150.86:9560/Nicktoon/index.m3u8?v.channelid=1564&v.type=1&ips=66.70.176.222:9598
+Boomerang US,http://127.0.0.1:9560/Boomerang/index.m3u8?v.channelid=1565&v.type=1&ips=66.70.176.222:9598
+Discovery US,http://51.161.87.108:9560/discovery/index.m3u8?v.channelid=1566&v.type=1&ips=51.79.72.168:29593
+NatGeo US,http://51.161.87.108:9560/natgeo/index.m3u8?v.channelid=1567&v.type=1&ips=51.79.72.168:29593
+NatGeo Wild US,http://127.0.0.1:9560/NatGeoWild/index.m3u8?v.channelid=1568&v.type=1&ips=66.70.176.222:9598
+Discovery Science US,http://148.251.66.26:9560/discoveryscience/index.m3u8?v.channelid=1569&v.type=1&ips=94.130.8.187:9590
+Investigation Discovery US,http://51.161.116.93:9560/InvestagationDiscovery/index.m3u8?v.channelid=1570&v.type=1&ips=148.113.176.47:19698
+Animal Planet US,http://127.0.0.1:9560/animalplanet/index.m3u8?v.channelid=1571&v.type=1&ips=51.79.72.168:29593
+History 1 US,http://104.149.150.86:9560/History/index.m3u8?v.channelid=1572&v.type=1&ips=66.70.176.222:9598
+History 2 US,http://127.0.0.1:9560/History2/index.m3u8?v.channelid=1573&v.type=1&ips=51.79.78.8:9590
+Science US,http://51.161.87.108:9560/19Science/index.m3u8?v.channelid=1574&v.type=1&ips=51.79.72.168:29593
+TLC US,http://127.0.0.1:9560/TLC/index.m3u8?v.channelid=1575&v.type=1&ips=148.113.176.47:19698
+ABC,http://51.161.116.93:9560/ABCNYWABC/index.m3u8?v.channelid=1576&v.type=1&ips=148.113.176.47:19698
+NBC,http://51.161.116.93:9560/NBCNYWNBC/index.m3u8?v.channelid=1577&v.type=1&ips=148.113.176.47:19698
+FOX,http://51.161.116.93:9560/FOX5NYWNYW/index.m3u8?v.channelid=1578&v.type=1&ips=148.113.176.47:19698
+CBS,http://51.161.116.93:9560/CBSNYWCBS/index.m3u8?v.channelid=1579&v.type=1&ips=148.113.176.47:19698
+CW,http://51.161.116.93:9560/CWNYWPIX/index.m3u8?v.channelid=1580&v.type=1&ips=148.113.176.47:19698
+PBS,http://51.161.87.108:9560/pbs/index.m3u8?v.channelid=1581&v.type=1&ips=51.79.72.168:29593
+SYFY,http://51.161.87.108:9560/syfy/index.m3u8?v.channelid=1582&v.type=1&ips=51.79.72.168:29593
+FX,http://104.149.150.86:9560/FX/index.m3u8?v.channelid=1583&v.type=1&ips=66.70.176.222:9598
+FXX,http://104.149.150.86:9560/FXX/index.m3u8?v.channelid=1584&v.type=1&ips=66.70.176.222:9598
+E!,http://51.161.87.108:9560/e!/index.m3u8?v.channelid=1585&v.type=1&ips=51.79.72.168:29593
+Comedy Central,http://104.149.150.86:9560/ComedyCentral/index.m3u8?v.channelid=1586&v.type=1&ips=66.70.176.222:9598
+TNT,http://104.149.150.86:9560/TNT/index.m3u8?v.channelid=1587&v.type=1&ips=66.70.176.222:9598
+Sundance,http://104.149.150.86:9560/Sundance/index.m3u8?v.channelid=1588&v.type=1&ips=66.70.176.222:9598
+Bravo,http://104.149.150.86:9560/Bravo/index.m3u8?v.channelid=1589&v.type=1&ips=66.70.176.222:9598
+Lifetime,http://51.161.116.93:9560/Lifetime/index.m3u8?v.channelid=1590&v.type=1&ips=148.113.176.47:19698
+Arts and Entertainment,http://104.149.150.86:9560/AE/index.m3u8?v.channelid=1591&v.type=1&ips=66.70.176.222:9598
+AMC,http://104.149.150.86:9560/AMC/index.m3u8?v.channelid=1592&v.type=1&ips=66.70.176.222:9598
+WE TV,http://104.149.150.86:9560/WETV/index.m3u8?v.channelid=1593&v.type=1&ips=66.70.176.222:9598
+Paramount Network,http://51.161.87.108:9560/14Paramount/index.m3u8?v.channelid=1594&v.type=1&ips=51.79.72.168:29593
+USA Network,http://104.149.150.86:9560/USANetwork/index.m3u8?v.channelid=1595&v.type=1&ips=66.70.176.222:9598
+Travel Channel,http://104.149.150.86:9560/Travel/index.m3u8?v.channelid=1596&v.type=1&ips=66.70.176.222:9598
+Tru TV,http://127.0.0.1:9560/trutv/index.m3u8?v.channelid=1597&v.type=1&ips=66.70.176.222:9598
+BET,http://104.149.150.86:9560/BET/index.m3u8?v.channelid=1598&v.type=1&ips=66.70.176.222:9598
+TV Land,http://104.149.150.86:9560/TVLand/index.m3u8?v.channelid=1599&v.type=1&ips=66.70.176.222:9598
+Hallmark Channel,http://51.161.87.108:9560/hallmark/index.m3u8?v.channelid=1600&v.type=1&ips=51.79.72.168:29593
+Lifetime Movie Network,http://104.149.150.86:9560/LMN/index.m3u8?v.channelid=1601&v.type=1&ips=66.70.176.222:9598
+VH-1,http://51.161.116.93:9560/VH1/index.m3u8?v.channelid=1602&v.type=1&ips=148.113.176.47:19698
+BBC America,http://104.149.150.86:9560/BBCAmerica/index.m3u8?v.channelid=1603&v.type=1&ips=66.70.176.222:9598
+TBS,http://104.149.150.86:9560/TBS/index.m3u8?v.channelid=1604&v.type=1&ips=66.70.176.222:9598
+CP 24 Canada,http://54.36.164.165:9560/CP24/index.m3u8?v.channelid=1783&v.type=1&ips=51.79.78.8:9590
+CBC,http://54.36.164.165:9560/CBC/index.m3u8?v.channelid=1840&v.type=1&ips=51.79.78.8:9590
+CTV,http://54.36.164.165:9560/CTV/index.m3u8?v.channelid=1841&v.type=1&ips=51.79.78.8:9590
+Global,http://127.0.0.1:9560/global/index.m3u8?v.channelid=1842&v.type=1&ips=51.79.78.8:9590
+CityTV,http://54.36.164.165:9560/CityTV/index.m3u8?v.channelid=1843&v.type=1&ips=51.79.78.8:9590
+CTV 2,http://54.36.164.165:9560/CTV2/index.m3u8?v.channelid=1844&v.type=1&ips=51.79.78.8:9590
+OMNI 1,http://192.99.160.142:9560/omni1/index.m3u8?v.channelid=1845&v.type=1&ips=51.79.78.8:9590
+OMNI 2,http://127.0.0.1:9560/omni2/index.m3u8?v.channelid=1846&v.type=1&ips=51.79.78.8:9590
+CHCH,http://127.0.0.1:9560/CHCH/index.m3u8?v.channelid=1847&v.type=1&ips=51.79.78.8:9590
+TVO,http://127.0.0.1:9560/TVO/index.m3u8?v.channelid=1848&v.type=1&ips=51.79.78.8:9590
+CTV News,http://54.36.164.165:9560/CTVNews/index.m3u8?v.channelid=1849&v.type=1&ips=51.79.78.8:9590
+CBC News,http://54.36.164.165:9560/CBCNews/index.m3u8?v.channelid=1850&v.type=1&ips=51.79.78.8:9590
+Business Network News,http://54.36.164.165:9560/BNNBloomberg/index.m3u8?v.channelid=1851&v.type=1&ips=51.79.78.8:9590
+TVA Montreal,http://192.99.160.142:9560/TVA/index.m3u8?v.channelid=1852&v.type=1&ips=142.4.216.151:39598
+LCN,http://192.99.160.142:9560/LCN/index.m3u8?v.channelid=1853&v.type=1&ips=142.4.216.151:39598
+ICI Tele,http://23.19.65.208:9560/ICITele/index.m3u8?v.channelid=1854&v.type=1&ips=142.4.216.151:39598
+ICI RDI,http://54.36.164.165:9560/ICIRDI/index.m3u8?v.channelid=1855&v.type=1&ips=51.79.78.8:9590
+Noovo,http://127.0.0.1:9560/noovo/index.m3u8?v.channelid=1856&v.type=1&ips=51.79.78.8:9590
+VIP亚洲_898989,#genre#
+潘多拉完美,http://176.9.20.214:9560/pandolawanmei/index.m3u8?v.channelid=631&v.type=1&ips=15.235.117.85:32342
+松视1,http://176.9.20.214:9560/songshi1/index.m3u8?v.channelid=633&v.type=1&ips=15.235.117.85:32342
+松视2,http://107.150.39.106:9560/songshi2/index.m3u8?v.channelid=634&v.type=1&ips=176.9.20.214:30184
+彩虹e,http://107.150.39.106:9560/e/index.m3u8?v.channelid=641&v.type=1&ips=176.9.20.214:30184
+彩虹电影,http://107.150.39.106:9560/caihongmov/index.m3u8?v.channelid=642&v.type=1&ips=176.9.20.214:30184
+惊艳台,http://107.150.39.106:9560/jingyan/index.m3u8?v.channelid=636&v.type=1&ips=176.9.20.214:30184
+香蕉台,http://107.150.39.106:9560/banana/index.m3u8?v.channelid=637&v.type=1&ips=176.9.20.214:30184
+松视3,http://107.150.39.106:9560/songshi3/index.m3u8?v.channelid=635&v.type=1&ips=176.9.20.214:30184
+彩虹K,http://107.150.39.106:9560/k/index.m3u8?v.channelid=1606&v.type=1&ips=176.9.20.214:30184
+LOOK,http://107.150.39.106:9560/look/index.m3u8?v.channelid=640&v.type=1&ips=176.9.20.214:30184
+HAPPY,http://107.150.39.106:9560/happy/index.m3u8?v.channelid=639&v.type=1&ips=176.9.20.214:30184
+极限台,http://107.150.39.106:9560/jixian/index.m3u8?v.channelid=1605&v.type=1&ips=176.9.20.214:30184
+小宝寻花,http://107.150.39.106:9560/xiaobao/index.m3u8?v.channelid=1757&v.type=1&ips=176.9.20.214:30184
+金三角猎艳,http://107.150.39.106:9560/jinsanjiao/index.m3u8?v.channelid=1758&v.type=1&ips=176.9.20.214:30184
+千人斩探花,http://107.150.39.106:9560/qianrenzhan/index.m3u8?v.channelid=1759&v.type=1&ips=176.9.20.214:30184
+SM西贡女,http://107.150.39.106:9560/SMxigong/index.m3u8?v.channelid=1760&v.type=1&ips=176.9.20.214:30184
+黑人干翻一切,http://107.150.39.106:9560/blackganfan/index.m3u8?v.channelid=1761&v.type=1&ips=176.9.20.214:30184
+大陆真实迷奸,http://107.150.39.106:9560/dalurape/index.m3u8?v.channelid=1762&v.type=1&ips=176.9.20.214:30184
+麻豆大番,http://107.150.39.106:9560/madudafan/index.m3u8?v.channelid=1763&v.type=1&ips=176.9.20.214:30184
+鸭总侦探探花,http://107.150.39.106:9560/yazhong/index.m3u8?v.channelid=1764&v.type=1&ips=176.9.20.214:30184
+麻豆导演,http://107.150.39.106:9560/madoudaoyan/index.m3u8?v.channelid=1765&v.type=1&ips=176.9.20.214:30184
+麻豆外番,http://107.150.39.106:9560/madouwaifan/index.m3u8?v.channelid=1766&v.type=1&ips=176.9.20.214:30184
+天美传媒,http://107.150.39.106:9560/tianmeicm/index.m3u8?v.channelid=1767&v.type=1&ips=176.9.20.214:30184
+果冻传媒,http://107.150.39.106:9560/huodong/index.m3u8?v.channelid=1768&v.type=1&ips=176.9.20.214:30184
+台灣片商PsychopornTW,http://107.150.39.106:9560/PsychopornTW/index.m3u8?v.channelid=1769&v.type=1&ips=176.9.20.214:30184
+天堂素人約啪,http://107.150.39.106:9560/tiantangshuren/index.m3u8?v.channelid=1770&v.type=1&ips=176.9.20.214:30184
+麻豆台湾日本篇,http://107.150.39.106:9560/madoutwjp/index.m3u8?v.channelid=1771&v.type=1&ips=176.9.20.214:30184
+91大神猫先生,http://107.150.39.106:9560/91mao/index.m3u8?v.channelid=1751&v.type=1&ips=176.9.20.214:30184
+91沈先生探花,http://107.150.39.106:9560/91shen/index.m3u8?v.channelid=1752&v.type=1&ips=176.9.20.214:30184
+干净利索(小利)探花,http://107.150.39.106:9560/ganjinglisuo/index.m3u8?v.channelid=1753&v.type=1&ips=176.9.20.214:30184
+男爵全国探花,http://107.150.39.106:9560/nanjue/index.m3u8?v.channelid=1754&v.type=1&ips=176.9.20.214:30184
+七天极品探花,http://107.150.39.106:9560/7days/index.m3u8?v.channelid=1755&v.type=1&ips=176.9.20.214:30184
+午夜寻花,http://107.150.39.106:9560/wuye/index.m3u8?v.channelid=1756&v.type=1&ips=176.9.20.214:30184
+VR 1,http://107.150.39.106:9560/VR1/index.m3u8?v.channelid=1914&v.type=1&ips=176.9.20.214:30184
+韩国三级 2,http://107.150.39.106:9560/krsanji2/index.m3u8?v.channelid=1915&v.type=1&ips=176.9.20.214:30184
+韩国三级 1,http://107.150.39.106:9560/krsanji1/index.m3u8?v.channelid=1916&v.type=1&ips=176.9.20.214:30184
+日本情色动漫 1,http://107.150.39.106:9560/jpanimax1/index.m3u8?v.channelid=1917&v.type=1&ips=176.9.20.214:30184
+波多野结衣,http://107.150.39.106:9560/boduoyejieyi/index.m3u8?v.channelid=1918&v.type=1&ips=176.9.20.214:30184
+苍井空,http://107.150.39.106:9560/chuangjingkong/index.m3u8?v.channelid=1919&v.type=1&ips=176.9.20.214:30184
+古川伊织,http://107.150.39.106:9560/guchuanyiz/index.m3u8?v.channelid=1920&v.type=1&ips=176.9.20.214:30184
+上原亚衣,http://107.150.39.106:9560/shangyuanyayi/index.m3u8?v.channelid=1921&v.type=1&ips=176.9.20.214:30184
+中字有码 3,http://107.150.39.106:9560/youmazz3/index.m3u8?v.channelid=1922&v.type=1&ips=176.9.20.214:30184
+中字有码 2,http://107.150.39.106:9560/youmazz2/index.m3u8?v.channelid=1923&v.type=1&ips=176.9.20.214:30184
+中字有码 1,http://107.150.39.106:9560/youmazz1/index.m3u8?v.channelid=1924&v.type=1&ips=176.9.20.214:30184
+无码破解,http://107.150.39.106:9560/wumapojie/index.m3u8?v.channelid=1925&v.type=1&ips=176.9.20.214:30184
+FC2PPV 1,http://107.150.39.106:9560/FC2PPV1/index.m3u8?v.channelid=1926&v.type=1&ips=176.9.20.214:30184
+日本强奸迷奸,http://107.150.39.106:9560/jprape/index.m3u8?v.channelid=1927&v.type=1&ips=176.9.20.214:30184
+韩国演艺圈潜规则Scanda korea,http://107.150.39.106:9560/Scandakorea/index.m3u8?v.channelid=1928&v.type=1&ips=176.9.20.214:30184
+J-Girl,http://107.150.39.106:9560/JGirl/index.m3u8?v.channelid=1929&v.type=1&ips=176.9.20.214:30184
+猫步毒药Catwalk,http://107.150.39.106:9560/Catwalk/index.m3u8?v.channelid=1930&v.type=1&ips=176.9.20.214:30184
+素人动画10musume,http://107.150.39.106:9560/10musume/index.m3u8?v.channelid=1931&v.type=1&ips=176.9.20.214:30184
+XXX-AV,http://107.150.39.106:9560/XXXAV/index.m3u8?v.channelid=1932&v.type=1&ips=176.9.20.214:30184
+Heyzo,http://107.150.39.106:9560/Heyzo/index.m3u8?v.channelid=1933&v.type=1&ips=176.9.20.214:30184
+人妻熟女Pacopacomama,http://107.150.39.106:9560/Pacopacomama/index.m3u8?v.channelid=1934&v.type=1&ips=176.9.20.214:30184
+天热素人H4610,http://107.150.39.106:9560/H4610/index.m3u8?v.channelid=1935&v.type=1&ips=176.9.20.214:30184
+人妻斩C0930,http://107.150.39.106:9560/C0930/index.m3u8?v.channelid=1936&v.type=1&ips=176.9.20.214:30184
+一本道1 pondo,http://107.150.39.106:9560/1pondo/index.m3u8?v.channelid=1937&v.type=1&ips=176.9.20.214:30184
+东京热tokyo hot,http://107.150.39.106:9560/tokyohot/index.m3u8?v.channelid=1938&v.type=1&ips=176.9.20.214:30184
+加勒比Caribbean,http://107.150.39.106:9560/Caribbean/index.m3u8?v.channelid=1939&v.type=1&ips=176.9.20.214:30184
+アイドル専門チャンネルPigoo,http://104.149.128.134:9560/pigoo/index.m3u8?v.channelid=1940&v.type=1&ips=198.204.241.82:19590
+VIP西方_898989,#genre#
+Playboy,http://107.150.39.106:9560/playboy/index.m3u8?v.channelid=1607&v.type=1&ips=176.9.20.214:30184
+Vivid Red,http://107.150.39.106:9560/vividred/index.m3u8?v.channelid=1608&v.type=1&ips=176.9.20.214:30184
+Private,http://107.150.39.106:9560/private/index.m3u8?v.channelid=1609&v.type=1&ips=176.9.20.214:30184
+Dorcel,http://107.150.39.106:9560/dorcel/index.m3u8?v.channelid=1610&v.type=1&ips=176.9.20.214:30184
+Dorcel XXX,http://107.150.39.106:9560/dorcelxxx/index.m3u8?v.channelid=1611&v.type=1&ips=176.9.20.214:30184
+Hustler TV,http://107.150.39.106:9560/hustlertv/index.m3u8?v.channelid=1612&v.type=1&ips=176.9.20.214:30184
+Penthouse Gold,http://107.150.39.106:9560/penthousegold/index.m3u8?v.channelid=1614&v.type=1&ips=176.9.20.214:30184
+Red Light,http://107.150.39.106:9560/RedLight/index.m3u8?v.channelid=1616&v.type=1&ips=176.9.20.214:30184
+Brazzers TV,http://107.150.39.106:9560/BrazzersTV/index.m3u8?v.channelid=1617&v.type=1&ips=176.9.20.214:30184
+Blue Hustler,http://107.150.39.106:9560/BlueHustler/index.m3u8?v.channelid=1618&v.type=1&ips=176.9.20.214:30184
+Erox,http://107.150.39.106:9560/Erox/index.m3u8?v.channelid=1619&v.type=1&ips=176.9.20.214:30184
+Vivid Touch,http://107.150.39.106:9560/VividTouch/index.m3u8?v.channelid=1639&v.type=1&ips=176.9.20.214:30184
+黑珍珠Black Girl,http://107.150.39.106:9560/blackgirl/index.m3u8?v.channelid=1623&v.type=1&ips=176.9.20.214:30184
+色情世界Dffnetwork,http://107.150.39.106:9560/dffnetwork/index.m3u8?v.channelid=1624&v.type=1&ips=176.9.20.214:30184
+人妻出轨Shewillcheat,http://107.150.39.106:9560/shewillcheat/index.m3u8?v.channelid=1625&v.type=1&ips=176.9.20.214:30184
+阿拉情色Arabsexpose,http://107.150.39.106:9560/arab/index.m3u8?v.channelid=1626&v.type=1&ips=176.9.20.214:30184
+啄木鸟经典Dorcel,http://107.150.39.106:9560/zmn/index.m3u8?v.channelid=1627&v.type=1&ips=176.9.20.214:30184
+老牛吃嫩草BluePill,http://107.150.39.106:9560/bluebillmen/index.m3u8?v.channelid=1628&v.type=1&ips=176.9.20.214:30184
+Naughty America,http://107.150.39.106:9560/naughtyamerica/index.m3u8?v.channelid=1629&v.type=1&ips=176.9.20.214:30184
+Naughty Office,http://107.150.39.106:9560/office/index.m3u8?v.channelid=1630&v.type=1&ips=176.9.20.214:30184
+21Member,http://107.150.39.106:9560/21member/index.m3u8?v.channelid=1631&v.type=1&ips=176.9.20.214:30184
+1ON1,http://107.150.39.106:9560/1on1/index.m3u8?v.channelid=1632&v.type=1&ips=176.9.20.214:30184
+LowPornCos,http://107.150.39.106:9560/lowporncos/index.m3u8?v.channelid=1633&v.type=1&ips=176.9.20.214:30184
+21Sextuary,http://107.150.39.106:9560/21sextuary/index.m3u8?v.channelid=1634&v.type=1&ips=176.9.20.214:30184
+体操金丝雀,http://107.150.39.106:9560/jsq/index.m3u8?v.channelid=1635&v.type=1&ips=176.9.20.214:30184
+老毛子情色,http://107.150.39.106:9560/russiarape/index.m3u8?v.channelid=1636&v.type=1&ips=176.9.20.214:30184
+美国家庭乱伦,http://107.150.39.106:9560/familystrokes/index.m3u8?v.channelid=1637&v.type=1&ips=176.9.20.214:30184
+欧美性艺术,http://107.150.39.106:9560/sexart/index.m3u8?v.channelid=1638&v.type=1&ips=176.9.20.214:30184
+黑白大战Blacked,http://107.150.39.106:9560/blacked/index.m3u8?v.channelid=1622&v.type=1&ips=176.9.20.214:30184
+Cum shots,http://107.150.39.106:9560/Cumshots/index.m3u8?v.channelid=1740&v.type=1&ips=176.9.20.214:30184
+Foot Factory,http://107.150.39.106:9560/FootFactory/index.m3u8?v.channelid=1741&v.type=1&ips=176.9.20.214:30184
+Legal Porn,http://107.150.39.106:9560/LegalPorn/index.m3u8?v.channelid=1742&v.type=1&ips=176.9.20.214:30184
+Anikkas,http://107.150.39.106:9560/Anikkas/index.m3u8?v.channelid=1743&v.type=1&ips=176.9.20.214:30184
+Blacked Raw,http://107.150.39.106:9560/BlackedRaw/index.m3u8?v.channelid=1744&v.type=1&ips=176.9.20.214:30184
+Xconfession,http://107.150.39.106:9560/Xconfession/index.m3u8?v.channelid=1745&v.type=1&ips=176.9.20.214:30184
+Kinpatu,http://107.150.39.106:9560/Kinpatu/index.m3u8?v.channelid=1746&v.type=1&ips=176.9.20.214:30184
+Mofos,http://107.150.39.106:9560/Mofos/index.m3u8?v.channelid=1747&v.type=1&ips=176.9.20.214:30184
+Fuckedand bound,http://107.150.39.106:9560/Fuckedandbound/index.m3u8?v.channelid=1748&v.type=1&ips=176.9.20.214:30184
+Grandpa Fuck,http://107.150.39.106:9560/GrandpaFuck/index.m3u8?v.channelid=1749&v.type=1&ips=176.9.20.214:30184
+GayVN Awards,http://107.150.39.106:9560/GayVNAwards/index.m3u8?v.channelid=1750&v.type=1&ips=176.9.20.214:30184
+
+
+
+<?php
+// 從 app 本地伺服器取得 M3U（需要在同一台機器上跑）
+// 或直接把 M3U 內容貼在 $m3u 變數裡
+
+$token = "EtoOxyL8";
+
+// 嘗試直接從 tang.hz.cz 取得頻道列表
+$m3u_url = "http://127.0.0.1:9978/proxy?do=hema&token={$token}";
+
+$ch = curl_init();
+curl_setopt_array($ch, [
+    CURLOPT_URL => $m3u_url,
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_USERAGENT => "okhttp/4.9.0",
+    CURLOPT_TIMEOUT => 10,
+]);
+$m3u = curl_exec($ch);
+curl_close($ch);
+
+// 如果抓不到，用靜態內容
+if (!$m3u || strlen($m3u) < 10) {
+    // 把你的 M3U 內容貼在這裡
+    $m3u = <<<M3U
+新闻News,#genre#
+TVB无线新闻,http://127.0.0.1:9560/03tvbnews264/index.m3u8?v.channelid=1941&v.type=1&ips=15.235.117.85:32342
+TVB PLUS,http://127.0.0.1:9560/04tvbj5264/index.m3u8?v.channelid=1942&v.type=1&ips=38.58.181.230:19690
+NOWTV新闻,http://127.0.0.1:9560/16nownews/index.m3u8?v.channelid=1944&v.type=1&ips=15.235.117.85:32342
+NOWTV财经,http://127.0.0.1:9560/18nowbusi/index.m3u8?v.channelid=1945&v.type=1&ips=38.58.181.230:19690
+M3U;
+}
+
+header('Content-Type: audio/x-mpegurl; charset=utf-8');
+echo "#EXTM3U\n";
+
+$lines = explode("\n", trim($m3u));
+$current_group = '';
+
+foreach ($lines as $line) {
+    $line = trim($line);
+    if (empty($line)) continue;
+
+    // 分組標題
+    if (strpos($line, '#genre#') !== false) {
+        $current_group = explode(',', $line)[0];
+        continue;
+    }
+
+    // 跳過 #EXTM3U 開頭
+    if (strpos($line, '#EXTM3U') === 0) continue;
+    if (strpos($line, '#EXTINF') === 0) continue;
+
+    $parts = explode(',', $line, 2);
+    if (count($parts) < 2) continue;
+
+    $name = trim($parts[0]);
+    $url  = trim($parts[1]);
+
+    // 解碼 base64 URL
+    $real_url = $url;
+    if (preg_match('#127\.0\.0\.1:\d+/([A-Za-z0-9+/=]+)$#', $url, $m)) {
+        $decoded = base64_decode($m[1]);
+        if ($decoded && strpos($decoded, 'http') === 0) {
+            // 取出 ips 參數當作真實 IP
+            if (preg_match('/ips=([^&]+)/', $decoded, $ip_match)) {
+                $real_ip = urldecode($ip_match[1]);
+                // 把 127.0.0.1:9560 換成真實 IP
+                $real_url = str_replace('127.0.0.1:9560', $real_ip, $decoded);
+                // 清除多餘參數
+                $real_url = preg_replace('/[?&]v\.channelid=\d+/', '', $real_url);
+                $real_url = preg_replace('/[?&]v\.type=\d+/', '', $real_url);
+                $real_url = preg_replace('/[?&]ips=[^&]+/', '', $real_url);
+                $real_url = rtrim($real_url, '?&');
+            } else {
+                $real_url = $decoded;
+            }
+        }
+    }
+
+    echo "#EXTINF:-1 group-title=\"{$current_group}\",{$name}\n";
+    echo "{$real_url}\n";
+}
+?>
